@@ -5,6 +5,7 @@ This GitHub repository summarizes papers and resources related to the image inpa
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies/pulls).
 
+
 <!-- omit in toc -->
 # Contents
 - [References](#references)
@@ -113,3 +114,28 @@ If you have other demands of reference formats, you may refer to the original re
 - ***ImageNet***: A Large-Scale Hierarchical Image Database [[Paper]](https://image-net.org/static_files/papers/imagenet_cvpr09.pdf) [[Dataset]](https://www.image-net.org/)
 - ***CelebA-HQ:*** Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Paper]](https://openreview.net/pdf?id=Hk99zCeAb) [[Dataset]](https://github.com/suvojit-0x55aa/celebA-HQ-dataset-download)
 - ***FFHQ:*** A Style-Based Generator Architecture for Generative Adversarial Networks [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) [[Dataset]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
+
+
+<!-- omit in toc -->
+# To-Do Lists
+- Published Papers on Conferences:
+  - [ ] Update CVPR papers
+  - [ ] Update CVPRW papers
+  - [ ] Update ICCV papers
+  - [ ] Update ICCVW papers
+  - [ ] Update ECCV papers
+  - [ ] Update ECCVW papers
+  - [ ] Update AAAI papers
+  - [ ] Update IJCAI papers
+  - [ ] Update ACM MM papers
+  - [ ] Update WACV papers
+  - [ ] Update ACCV papers
+  - [ ] Update NeurIPS papers
+  - [ ] Update ICLR papers
+  - [ ] Update SIGGRAPH papers
+- Published Papers on Journals:
+  - [ ] Update TMM papers
+  - [ ] Update TIP papers
+  - [ ] Update TCSVT papers
+  - [ ] Update TPAMI papers
+- Regular Update of arXiv papers
