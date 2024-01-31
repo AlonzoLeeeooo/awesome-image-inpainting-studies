@@ -10,10 +10,14 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [References](#references)
 - [Deep Learning-Based Methods](#deep-learning-based-methods)
   - [Vanilla Image Inpainting](#vanilla-image-inpainting)
+    - [Year 2021](#vanilla-year-2021)
+    - [Year 2020](#vanilla-year-2020)
+    - [Year 2019](#vanilla-year-2019)
     - [Year 2018](#vanilla-year-2018)
     - [Year 2017](#vanilla-year-2017)
     - [Year 2016](#vanilla-year-2016)
   - [Face Completion](#face-completion)
+    - [Year 2020](#face-year-2020)
     - [Year 2017](#face-year-2017)
 - [Conventional Methods](#conventional-methods)
     - [Year 2016](#conventional-year-2016)
@@ -43,6 +47,25 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
+- <span id="vanilla-year-2021">**Year 2021**</span>
+  - CVPR
+    - TransFill: Reference-Guided Image Inpainting by Merging Multiple Color and Spatial Transformations [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_TransFill_Reference-Guided_Image_Inpainting_by_Merging_Multiple_Color_and_Spatial_CVPR_2021_paper.pdf) [[Code]](https://github.com/yzhouas/TransFill-Reference-Inpainting)
+    - Image Inpainting With External-Internal Learning and Monochromic Bottleneck [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Image_Inpainting_With_External-Internal_Learning_and_Monochromic_Bottleneck_CVPR_2021_paper.pdf) [[Code]](https://github.com/Tengfei-Wang/external-internal-inpainting)
+    - Image Inpainting Guided by Coherence Priors of Semantics and Textures [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liao_Image_Inpainting_Guided_by_Coherence_Priors_of_Semantics_and_Textures_CVPR_2021_paper.pdf)
+    - PD-GAN: Probabilistic Diverse GAN for Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_PD-GAN_Probabilistic_Diverse_GAN_for_Image_Inpainting_CVPR_2021_paper.pdf) [[Code]](https://github.com/KumapowerLIU/PD-GAN)
+    - Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Peng_Generating_Diverse_Structure_for_Image_Inpainting_With_Hierarchical_VQ-VAE_CVPR_2021_paper.pdf) [[Code]](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
+- <span id="vanilla-year-2020">**Year 2020**</span>
+  - CVPR
+    - UCTGAN: Diverse Image Inpainting Based on Unsupervised Cross-Space Translation [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)
+    - Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.pdf) [[Code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
+    - Recurrent Feature Reasoning for Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.pdf) [[Code]](https://github.com/jingyuanli001/RFR-Inpainting)
+    - Prior Guided GAN Based Semantic Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.pdf)
+- <span id="vanilla-year-2019">**Year 2019**</span>
+  - CVPR
+    - Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Learning_Pyramid-Context_Encoder_Network_for_High-Quality_Image_Inpainting_CVPR_2019_paper.pdf) [[Code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
+    - Foreground-Aware Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Foreground-Aware_Image_Inpainting_CVPR_2019_paper.pdf)
+    - PEPSI : Fast Image Inpainting With Parallel Decoding Network [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sagong_PEPSI__Fast_Image_Inpainting_With_Parallel_Decoding_Network_CVPR_2019_paper.pdf) [[Code]](https://github.com/Forty-lock/PEPSI-Fast_image_inpainting_with_parallel_decoding_network)
+    - Pluralistic Image Completion [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pluralistic_Image_Completion_CVPR_2019_paper.pdf) [[Code]](https://github.com/lyndonzheng/Pluralistic-Inpainting)
 - <span id="vanilla-year-2018">**Year 2018**</span>
   - CVPR
     - ***DeepFill-v1:*** Generative Image Inpainting With Contextual Attention [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf) [[Code]](https://github.com/JiahuiYu/generative_inpainting)
@@ -57,6 +80,9 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Face Completion
+- <span id="face-year-2020">**Year 2020**</span>
+  - CVPR
+    - Learning Oracle Attention for High-Fidelity Face Completion [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_Oracle_Attention_for_High-Fidelity_Face_Completion_CVPR_2020_paper.pdf)
 - <span id="face-year-2017">**Year 2017**</span>
   - CVPR
     - Generative Face Completion [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Generative_Face_Completion_CVPR_2017_paper.pdf) [[Code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
@@ -86,3 +112,4 @@ If you have other demands of reference formats, you may refer to the original re
 - ***Places***: A 10 Million Image Database for Scene Recognition [[Paper]](http://places2.csail.mit.edu/PAMI_places.pdf) [[Dataset]](http://places2.csail.mit.edu/download.html)
 - ***ImageNet***: A Large-Scale Hierarchical Image Database [[Paper]](https://image-net.org/static_files/papers/imagenet_cvpr09.pdf) [[Dataset]](https://www.image-net.org/)
 - ***CelebA-HQ:*** Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Paper]](https://openreview.net/pdf?id=Hk99zCeAb) [[Dataset]](https://github.com/suvojit-0x55aa/celebA-HQ-dataset-download)
+- ***FFHQ:*** A Style-Based Generator Architecture for Generative Adversarial Networks [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) [[Dataset]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
