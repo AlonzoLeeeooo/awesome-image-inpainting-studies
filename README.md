@@ -73,6 +73,9 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**
     - Blended Diffusion for Text-driven Editing of Natural Images [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf) [[Code]](https://github.com/omriav/blended-diffusion)
+- <span id="text-year-2021">**Year 2021**</span>
+  - **CVPR Workshops**
+    - Grounded, Controllable and Debiased Image Completion With Lexical Semantics [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CiV/papers/Zhang_Grounded_Controllable_and_Debiased_Image_Completion_With_Lexical_Semantics_CVPRW_2021_paper.pdf)
 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
@@ -84,6 +87,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Dual-path Image Inpainting with Auxiliary GAN Inversion [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Dual-Path_Image_Inpainting_With_Auxiliary_GAN_Inversion_CVPR_2022_paper.pdf)
     - ***RePaint:*** Inpainting using Denoising Diffusion Probabilistic Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf) [[Code]](https://github.com/andreas128/RePaint)
     - ***TFill:*** Bridging Global Context Interactions for High-Fidelity Image Completion [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Bridging_Global_Context_Interactions_for_High-Fidelity_Image_Completion_CVPR_2022_paper.pdf) [[Code]](https://github.com/lyndonzheng/TFill) [[Project]](https://chuanxiaz.com/tfill/) [[Video]](https://www.youtube.com/embed/efB1fw0jiLs)
+  - **CVPR Workshops**
+    - ***Zoom-to-Inpaint:*** Image Inpainting with High-Frequency Details [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Kim_Zoom-to-Inpaint_Image_Inpainting_With_High-Frequency_Details_CVPRW_2022_paper.pdf) [[Code]]()
 - <span id="vanilla-year-2021">**Year 2021**</span>
   - **CVPR**
     - ***TransFill:*** Reference-Guided Image Inpainting by Merging Multiple Color and Spatial Transformations [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_TransFill_Reference-Guided_Image_Inpainting_by_Merging_Multiple_Color_and_Spatial_CVPR_2021_paper.pdf) [[Code]](https://github.com/yzhouas/TransFill-Reference-Inpainting)
