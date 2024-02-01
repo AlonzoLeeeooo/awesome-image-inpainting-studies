@@ -9,23 +9,32 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # Contents
 - [References](#references)
-- [Deep Learning-Based Methods](#deep-learning-based-methods)
+- [Papers _(Mainly Deep Learning-Based)_](#papers)
+  - [🔥Text-Guided Image Inpainting](#text-guided-image-inpainting)
+    - [Year 2023](#text-year-2023)
+    - [Year 2022](#text-year-2022)
   - [Vanilla Image Inpainting](#vanilla-image-inpainting)
+    - [Year 2022](#vanilla-year-2022)
     - [Year 2021](#vanilla-year-2021)
     - [Year 2020](#vanilla-year-2020)
     - [Year 2019](#vanilla-year-2019)
     - [Year 2018](#vanilla-year-2018)
     - [Year 2017](#vanilla-year-2017)
     - [Year 2016](#vanilla-year-2016)
+  - [Edge-Based Image Inpainting](#deep-learning-based-methods)
+    - [Year 2022](#edge-year-2022)
+  - [Sketch-Guided Image Inpainting](#sketch-guided-image-inpainting)
+    - [Year 2022](#sketch-year-2022)
+    - [Year 2021](#sketch-year-2021)
   - [Face Completion](#face-completion)
     - [Year 2020](#face-year-2020)
     - [Year 2017](#face-year-2017)
-- [Conventional Methods](#conventional-methods)
-    - [Year 2016](#conventional-year-2016)
-    - [Year 2011](#conventional-year-2011)
-    - [Year 2005](#conventional-year-2005)
-    - [Year 2004](#conventional-year-2004)
-    - [Year 2000](#conventional-year-2000)
+  - [Conventional Methods _(Non Deep Learning-Based)_](#conventional-methods)
+      - [Year 2016](#conventional-year-2016)
+      - [Year 2011](#conventional-year-2011)
+      - [Year 2005](#conventional-year-2005)
+      - [Year 2004](#conventional-year-2004)
+      - [Year 2000](#conventional-year-2000)
 - [Datasets](#datasets)
 
 <!-- omit in toc -->
@@ -44,10 +53,32 @@ If you have other demands of reference formats, you may refer to the original re
 
 
 <!-- omit in toc -->
-# Deep Learning-Based Methods
+# Papers
+
+<!-- omit in toc -->
+## 🔥 Text-Guided Image Inpainting
+- <span id="text-year-2023">**Year 2023**</span>
+  - CVPR
+    - NÜWA-LIP: Language-guided Image Inpainting with Defect-free VQGAN [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[Code]](https://github.com/kodenii/NUWA-LIP)
+    - Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Imagen_Editor_and_EditBench_Advancing_and_Evaluating_Text-Guided_Image_Inpainting_CVPR_2023_paper.pdf)
+    - SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf)
+    - Paint by Example: Exemplar-based Image Editing with Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/Fantasy-Studio/Paint-by-Example) [[Demo]](https://huggingface.co/spaces/Fantasy-Studio/Paint-by-Example)
+  - SIGGRAPH
+    - Blended Latent Diffusion [[Paper]](https://omriavrahami.com/blended-latent-diffusion-page/static/paper/Blended_Latent_Diffusion_Paper.pdf) [[Code]](https://github.com/omriav/blended-diffusion?tab=readme-ov-file) [[Project]](https://omriavrahami.com/blended-latent-diffusion-page/)
+- <span id="text-year-2022">**Year 2022**</span>
+  - CVPR
+    - Blended Diffusion for Text-driven Editing of Natural Images [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf) [[Code]](https://github.com/omriav/blended-diffusion)
 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
+- <span id="vanilla-year-2022">**Year 2022**</span>
+  - CVPR
+    - MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MISF_Multi-Level_Interactive_Siamese_Filtering_for_High-Fidelity_Image_Inpainting_CVPR_2022_paper.pdf) [[Code]](https://github.com/tsingqguo/misf)
+    - MAT: Mask-Aware Transformer for Large Hole Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MAT_Mask-Aware_Transformer_for_Large_Hole_Image_Inpainting_CVPR_2022_paper.pdf) [[Code]](https://github.com/fenglinglwb/MAT)
+    - Reduce Information Loss in Transformers for Pluralistic Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Reduce_Information_Loss_in_Transformers_for_Pluralistic_Image_Inpainting_CVPR_2022_paper.pdf) [[Code]](https://github.com/liuqk3/PUT)
+    - Dual-path Image Inpainting with Auxiliary GAN Inversion [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Dual-Path_Image_Inpainting_With_Auxiliary_GAN_Inversion_CVPR_2022_paper.pdf)
+    - RePaint: Inpainting using Denoising Diffusion Probabilistic Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf) [[Code]](https://github.com/andreas128/RePaint)
+    - Bridging Global Context Interactions for High-Fidelity Image Completion [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Bridging_Global_Context_Interactions_for_High-Fidelity_Image_Completion_CVPR_2022_paper.pdf) [[Code]](https://github.com/lyndonzheng/TFill) [[Project]](https://chuanxiaz.com/tfill/) [[Video]](https://www.youtube.com/embed/efB1fw0jiLs)
 - <span id="vanilla-year-2021">**Year 2021**</span>
   - CVPR
     - TransFill: Reference-Guided Image Inpainting by Merging Multiple Color and Spatial Transformations [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_TransFill_Reference-Guided_Image_Inpainting_by_Merging_Multiple_Color_and_Spatial_CVPR_2021_paper.pdf) [[Code]](https://github.com/yzhouas/TransFill-Reference-Inpainting)
@@ -61,6 +92,7 @@ If you have other demands of reference formats, you may refer to the original re
     - Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.pdf) [[Code]](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
     - Recurrent Feature Reasoning for Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.pdf) [[Code]](https://github.com/jingyuanli001/RFR-Inpainting)
     - Prior Guided GAN Based Semantic Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.pdf)
+    - Semantic Image Manipulation Using Scene Graph [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dhamo_Semantic_Image_Manipulation_Using_Scene_Graphs_CVPR_2020_paper.pdf) [[Code]](https://github.com/he-dhamo/simsg)
 - <span id="vanilla-year-2019">**Year 2019**</span>
   - CVPR
     - Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Learning_Pyramid-Context_Encoder_Network_for_High-Quality_Image_Inpainting_CVPR_2019_paper.pdf) [[Code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
@@ -80,6 +112,23 @@ If you have other demands of reference formats, you may refer to the original re
     - Context Encoders: Feature Learning by Inpainting [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) [[Code]](https://github.com/BoyuanJiang/context_encoder_pytorch)
 
 <!-- omit in toc -->
+## Edge-Based Image Inpainting
+- <span id="edge-year-2022">**Year 2022**</span>
+  - CVPR
+    - Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Incremental_Transformer_Structure_Enhanced_Image_Inpainting_With_Masking_Positional_Encoding_CVPR_2022_paper.pdf) [[Code]](https://github.com/DQiaole/ZITS_inpainting) [[Project]](https://dqiaole.github.io/ZITS_inpainting/)
+
+<!-- omit in toc -->
+## Sketch-Guided Image Inpainting
+- <span id="sketch-year-2022">**Year 2022**</span>
+  - CVPR
+    - SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_SketchEdit_Mask-Free_Local_Image_Manipulation_With_Partial_Sketches_CVPR_2022_paper.pdf) [[Code]](https://github.com/zengxianyu/sketchedit) [[Project]](http://zengyu.me/sketchedit/)
+- <span id="sketch-year-2021">**Year 2021**</span>
+  - CVPR
+    - DeFLOCNet: Deep Image Editing via Flexible Low-Level Controls [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_DeFLOCNet_Deep_Image_Editing_via_Flexible_Low-Level_Controls_CVPR_2021_paper.pdf) [[Code]](https://github.com/KumapowerLIU/DeFLOCNet?tab=readme-ov-file)
+
+
+
+<!-- omit in toc -->
 ## Face Completion
 - <span id="face-year-2020">**Year 2020**</span>
   - CVPR
@@ -89,7 +138,7 @@ If you have other demands of reference formats, you may refer to the original re
     - Generative Face Completion [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Generative_Face_Completion_CVPR_2017_paper.pdf) [[Code]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
 
 <!-- omit in toc -->
-# Conventional Methods
+## Conventional Methods
 - <span id="conventional-year-2016">**Year 2016**</span>
   - CVPR
     - Multiview Image Completion with Space Structure Propagation [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Baek_Multiview_Image_Completion_CVPR_2016_paper.pdf)
@@ -110,6 +159,7 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 # Datasets
+- ***Paris StreetView:*** Context Encoders: Feature Learning by Inpainting [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) [[Code]](https://github.com/BoyuanJiang/context_encoder_pytorch) _(Since Google's terms of service has forbidden anyone from creating repositories of streetview data, the dataset is currently not available.)_
 - ***Places***: A 10 Million Image Database for Scene Recognition [[Paper]](http://places2.csail.mit.edu/PAMI_places.pdf) [[Dataset]](http://places2.csail.mit.edu/download.html)
 - ***ImageNet***: A Large-Scale Hierarchical Image Database [[Paper]](https://image-net.org/static_files/papers/imagenet_cvpr09.pdf) [[Dataset]](https://www.image-net.org/)
 - ***CelebA-HQ:*** Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Paper]](https://openreview.net/pdf?id=Hk99zCeAb) [[Dataset]](https://github.com/suvojit-0x55aa/celebA-HQ-dataset-download)
@@ -118,8 +168,8 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 # To-Do Lists
-- Published Papers on Conferences:
-  - [ ] Update CVPR papers
+- Published Papers on Conferences
+  - [x] Update CVPR papers
   - [ ] Update CVPRW papers
   - [ ] Update ICCV papers
   - [ ] Update ICCVW papers
@@ -133,7 +183,7 @@ If you have other demands of reference formats, you may refer to the original re
   - [ ] Update NeurIPS papers
   - [ ] Update ICLR papers
   - [ ] Update SIGGRAPH papers
-- Published Papers on Journals:
+- Published Papers on Journals
   - [ ] Update TMM papers
   - [ ] Update TIP papers
   - [ ] Update TCSVT papers
