@@ -14,6 +14,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
     - [Year 2021](#text-year-2021)
+    - [Year 2020](#text-year-2020)
   - [Vanilla Image Inpainting](#vanilla-image-inpainting)
     - [Year 2023](#vanilla-year-2023)
     - [Year 2022](#vanilla-year-2022)
@@ -84,6 +85,11 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="text-year-2021">**Year 2021**</span>
   - **CVPRW**
     - Grounded, Controllable and Debiased Image Completion With Lexical Semantics [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/CiV/papers/Zhang_Grounded_Controllable_and_Debiased_Image_Completion_With_Lexical_Semantics_CVPRW_2021_paper.pdf)
+- <span id="text-year-2020">**Year 2020**</span>
+  - **ACM MM**
+    - ***MMFL:*** Multimodal Fusion Learning for Text-Guided Image Inpainting [[Paper]](https://dl.acm.org/doi/10.1145/3394171.3413982) [[Code]](https://github.com/AliceQLin/MMFL-Inpainting)
+    - Text-Guided Neural Image Inpainting [[Paper]](https://arxiv.org/pdf/2004.03212.pdf) [[Code]](https://github.com/idealwhite/TDANet)
+    - Text-Guided Image Inpainting [[Paper]](https://doi.org/10.1145/3394171.3413939)
 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
@@ -94,7 +100,7 @@ If you have other demands of reference formats, you may refer to the original re
   - **ICCVW**
     - ***TransInpaint:*** Transformer-based Image Inpainting with Context Adaptation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Shamsolmoali_TransInpaint_Transformer-Based_Image_Inpainting_with_Context_Adaptation_ICCVW_2023_paper.pdf)
   - **AAAI**
-    - CoordFill: Efficient High-Resolution Image Inpainting via Parameterized Coordinate Querying [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25263/25035) [[Code]](https://github.com/NiFangBaAGe/CoordFill)
+    - ***CoordFill:*** Efficient High-Resolution Image Inpainting via Parameterized Coordinate Querying [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25263/25035) [[Code]](https://github.com/NiFangBaAGe/CoordFill)
     - Generative Image Inpainting with Segmentation Confusion Adversarial Training and Contrastive Learning [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25502/25274) [[Code]](https://github.com/zzw-zjgsu/Generative-Image-Inpainting)
 - <span id="vanilla-year-2022">**Year 2022**</span>
   - **CVPR**
@@ -137,6 +143,10 @@ If you have other demands of reference formats, you may refer to the original re
     - ***ICT:*** High-Fidelity Pluralistic Image Completion with Transformers [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_High-Fidelity_Pluralistic_Image_Completion_With_Transformers_ICCV_2021_paper.pdf) [[Code]](https://github.com/raywzy/ICT) [[Project]](http://raywzy.com/ICT/)
   - **IJCAI**
     - Context-Aware Image Inpainting with Learned Semantic Priors [[Paper]](https://www.ijcai.org/proceedings/2021/0183.pdf) [[Code]](https://github.com/WendongZh/SPL)
+  - **ACM MM**
+    - ***BAT-Fill:*** Diverse Image Inpainting with Bidirectional and Autoregressive Transformers [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475436) [[Code]](https://github.com/yingchen001/BAT-Fill)
+    - ***JPGNet:*** Joint Predictive Filtering and Generative Network for Image Inpainting [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475170) [[Code]](https://github.com/tsingqguo/jpgnet)
+    - Learning Contextual Transformer Network for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475426)
 - <span id="vanilla-year-2020">**Year 2020**</span>
   - **CVPR**
     - ***UCTGAN:*** Diverse Image Inpainting Based on Unsupervised Cross-Space Translation [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)
@@ -153,6 +163,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Learning to Incorporate Structure Knowledge for Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6951/6805) [[Code]](https://github.com/YoungGod/sturcture-inpainting)
     - Region Normalization for Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6967/6821) [[Code]](https://github.com/geekyutao/RN)
     - The Missing Data Encoder: Cross-Channel Image Completion with Hide-and-Seek Adversarial Network [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6696/6550) [[Code]](https://gitlab.com/adapo/themissingdataencoder/-/tree/master)
+  - **ACM MM**
+    - Image Inpainting Based on Multi-frequency Probabilistic Inference Model [[Paper]](https://dl.acm.org/doi/10.1145/3394171.3413891)
 - <span id="vanilla-year-2019">**Year 2019**</span>
   - **CVPR**
     - Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Learning_Pyramid-Context_Encoder_Network_for_High-Quality_Image_Inpainting_CVPR_2019_paper.pdf) [[Code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
@@ -168,7 +180,11 @@ If you have other demands of reference formats, you may refer to the original re
   - **IJCAI**
     - Generative Image Inpainting with Submanifold Alignment [[Paper]](https://www.ruizhang.info/publications/IJCAI2019%20Generative%20Image%20Inpainting%20with%20Submanifold%20Alignment.pdf)
     - Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation [[Paper]](https://www.ijcai.org/proceedings/2019/0433.pdf)
-    - MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting [[Paper]](https://www.ijcai.org/proceedings/2019/0520.pdf) [[Code]](https://github.com/wangning-001/MUSICAL)
+    - ***MUSICAL:*** Multi-Scale Image Contextual Attention Learning for Inpainting [[Paper]](https://www.ijcai.org/proceedings/2019/0520.pdf) [[Code]](https://github.com/wangning-001/MUSICAL)
+    - Single-shot Semantic Image Inpainting with Densely Connected Generative Networks [[Paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350903)
+    - ***GAIN:*** Gradient Augmented Inpainting Network for Irregular Holes [[Paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350912)
+    - Progressive Image Inpainting with Full-Resolution Residual Network [[Paper]](https://arxiv.org/pdf/1907.10478.pdf) [[Code]](https://github.com/AnatoliiPotapov/inpainting_FRRN)
+    - Deep Fusion Network for Image Completion [[Paper]](https://arxiv.org/pdf/1904.08060.pdf) [[Code]](https://github.com/hughplay/DFNet)
 - <span id="vanilla-year-2018">**Year 2018**</span>
   - **CVPR**
     - ***DeepFill-v1:*** Generative Image Inpainting With Contextual Attention [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf) [[Code]](https://github.com/JiahuiYu/generative_inpainting) [[Video]](https://www.youtube.com/watch?v=xz1ZvcdhgQ0&feature=youtu.be)
