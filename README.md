@@ -26,12 +26,14 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2016](#vanilla-year-2016)
   - [Blind Image Inpainting](#blind-image-inpainting)
     - [Year 2023](#blind-year-2023)
+    - [Year 2022](#blind-year-2022)
     - [Year 2020](#blind-year-2020)
   - [Edge-Based Image Inpainting](#edge-based-image-inpainting)
     - [Year 2022](#edge-year-2022)
     - [Year 2021](#edge-year-2021)
     - [Year 2019](#edge-year-2019)
   - [Sketch-Guided Image Inpainting](#sketch-guided-image-inpainting)
+    - [Year 2023](#sketch-year-2023)
     - [Year 2022](#sketch-year-2022)
     - [Year 2021](#sketch-year-2021)
     - [Year 2019](#sketch-year-2019)
@@ -79,6 +81,8 @@ If you have other demands of reference formats, you may refer to the original re
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Shukla_Scene_Graph_Driven_Text-Prompt_Generation_for_Image_Inpainting_CVPRW_2023_paper.pdf)
   - **SIGGRAPH**
     - Blended Latent Diffusion [[Paper]](https://omriavrahami.com/blended-latent-diffusion-page/static/paper/Blended_Latent_Diffusion_Paper.pdf) [[Code]](https://github.com/omriav/blended-diffusion?tab=readme-ov-file) [[Project]](https://omriavrahami.com/blended-latent-diffusion-page/)
+  - **ACM MM**
+    - ***Uni-paint:*** A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612200) [[Code]](https://github.com/ysy31415/unipaint)
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**
     - Blended Diffusion for Text-driven Editing of Natural Images [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf) [[Code]](https://github.com/omriav/blended-diffusion)
@@ -104,6 +108,9 @@ If you have other demands of reference formats, you may refer to the original re
   - **AAAI**
     - ***CoordFill:*** Efficient High-Resolution Image Inpainting via Parameterized Coordinate Querying [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25263/25035) [[Code]](https://github.com/NiFangBaAGe/CoordFill)
     - Generative Image Inpainting with Segmentation Confusion Adversarial Training and Contrastive Learning [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25502/25274) [[Code]](https://github.com/zzw-zjgsu/Generative-Image-Inpainting)
+  - **WACV**
+    - Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Jain_Keys_To_Better_Image_Inpainting_Structure_and_Texture_Go_Hand_WACV_2023_paper.pdf) [[Code]](https://github.com/SHI-Labs/FcF-Inpainting)
+    - ***GeoFill:*** Reference-Based Image Inpainting with Better Geometric Understanding [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Zhao_GeoFill_Reference-Based_Image_Inpainting_With_Better_Geometric_Understanding_WACV_2023_paper.pdf)
 - <span id="vanilla-year-2022">**Year 2022**</span>
   - **CVPR**
     - ***MISF:*** Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MISF_Multi-Level_Interactive_Siamese_Filtering_for_High-Fidelity_Image_Inpainting_CVPR_2022_paper.pdf) [[Code]](https://github.com/tsingqguo/misf)
@@ -135,6 +142,10 @@ If you have other demands of reference formats, you may refer to the original re
     - Atrous Pyramid Transformer with Spectral Convolution for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548348)
     - Deep Multi-Resolution Mutual Learning for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548030)
     - ***T-former:*** An Efficient Transformer for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548446) [[Code]](https://github.com/dengyecode/T-former_image_inpainting)
+  - **NeurIPS**
+    - Cross-Image Context for Single Image Inpainting [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/09b6e009612875dd0a7291d5f4fd8b49-Paper-Conference.pdf)
+  - **WACV**
+    - ***LaMa:*** Resolution-robust Large Mask Inpainting with Fourier Convolutions [[Paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.pdf) [[Code]](https://github.com/advimman/lama)
 - <span id="vanilla-year-2021">**Year 2021**</span>
   - **CVPR**
     - ***TransFill:*** Reference-Guided Image Inpainting by Merging Multiple Color and Spatial Transformations [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_TransFill_Reference-Guided_Image_Inpainting_by_Merging_Multiple_Color_and_Spatial_CVPR_2021_paper.pdf) [[Code]](https://github.com/yzhouas/TransFill-Reference-Inpainting)
@@ -154,8 +165,13 @@ If you have other demands of reference formats, you may refer to the original re
     - ***BAT-Fill:*** Diverse Image Inpainting with Bidirectional and Autoregressive Transformers [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475436) [[Code]](https://github.com/yingchen001/BAT-Fill)
     - ***JPGNet:*** Joint Predictive Filtering and Generative Network for Image Inpainting [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475170) [[Code]](https://github.com/tsingqguo/jpgnet)
     - Learning Contextual Transformer Network for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475426)
-    - GCM-Net: Towards Effective Global Context Modeling for Image Inpainting [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475433) [[Code]](https://github.com/Ian0926/GCM-Net)
+    - ***GCM-Net:*** Towards Effective Global Context Modeling for Image Inpainting [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475433) [[Code]](https://github.com/Ian0926/GCM-Net)
     - An Adaptive Iterative Inpainting Method with More Information Exploration [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475475)
+    - Large Scale Image Completion via Co-Modulated Generative Adversarial Networks [[Paper]](Large Scale Image Completion via Co-Modulated Generative Adversarial Networks) [[Code]](https://github.com/zsyzzsoft/co-mod-gan)
+  - **WACV**
+    - ***R-MNet:*** A Perceptual Adversarial Network for Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Jam_R-MNet_A_Perceptual_Adversarial_Network_for_Image_Inpainting_WACV_2021_paper.pdf) [[Code]](https://github.com/Jireh-Jam/R-MNet-Inpainting-keras)
+    - Multi-Level Generative Chaotic Recurrent Network for Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Multi-Level_Generative_Chaotic_Recurrent_Network_for_Image_Inpainting_WACV_2021_paper.pdf) 
+    - Hyperrealistic Image Inpainting with Hypergraphs [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf) [[Code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting)
 - <span id="vanilla-year-2020">**Year 2020**</span>
   - **CVPR**
     - ***UCTGAN:*** Diverse Image Inpainting Based on Unsupervised Cross-Space Translation [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)
@@ -204,6 +220,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Image Inpainting for Irregular Holes Using Partial Convolutions [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf) [[Code]](https://github.com/NVIDIA/partialconv) [[Video]](https://www.youtube.com/watch?v=gg0F5JjKmhA) [[Demo]](https://www.nvidia.com/en-us/research/ai-playground/)
   - **ACM MM**
     - Semantic Image Inpainting with Progressive Generative Networks [[Paper]](https://dl.acm.org/doi/10.1145/3240508.3240625) [[Code]](https://github.com/crashmoon/Progressive-Generative-Networks)
+  - **NeurIPS**
+    - Image Inpainting via Generative Multi-column Convolutional Neural Networks [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2018/file/6f3ef77ac0e3619e98159e9b6febf557-Paper.pdf) [[Code]](https://github.com/shepnerd/inpainting_gmcnn)
 - <span id="vanilla-year-2017">**Year 2017**</span>
   - **CVPR**
     - High-Resolution Image Inpainting Using Multi-scale Neural Patch Synthesis [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_High-Resolution_Image_Inpainting_CVPR_2017_paper.pdf) [[Code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
@@ -244,6 +262,9 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Sketch-Guided Image Inpainting
+- <span id="sketch-year-2023">**Year 2023**</span>
+  - **ACM MM**
+    - ***Draw2Edit:*** Mask-Free Sketch-Guided Image Manipulation [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612398) [[Code]](https://github.com/YiwenXu/Draw2Edit)
 - <span id="sketch-year-2022">**Year 2022**</span>
   - **CVPR**
     - ***SketchEdit:*** Mask-Free Local Image Manipulation with Partial Sketches [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_SketchEdit_Mask-Free_Local_Image_Manipulation_With_Partial_Sketches_CVPR_2022_paper.pdf) [[Code]](https://github.com/zengxianyu/sketchedit) [[Project]](http://zengyu.me/sketchedit/)
@@ -263,6 +284,8 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="face-year-2023">**Year 2023**</span>
   - **CVPRW**
     - ***Unmasking Your Expression:*** Expression-Conditioned GAN for Masked Face Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/papers/Sola_Unmasking_Your_Expression_Expression-Conditioned_GAN_for_Masked_Face_Inpainting_CVPRW_2023_paper.pdf) [[Code]](https://github.com/SridharSola/ECGAN)
+  - **WACV**
+    - Nested Deformable Multi-head Attention for Facial Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Phutke_Nested_Deformable_Multi-Head_Attention_for_Facial_Image_Inpainting_WACV_2023_paper.pdf) [[Code]](https://github.com/shrutiphutke/NDMA_Facial_Inpainting)
 - <span id="face-year-2021">**Year 2021**</span>
   - **ACM MM**
     - When Face Completion Meets Irregular Holes: An Attributes Guided Deep Inpainting Network [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475466)
@@ -320,15 +343,13 @@ If you have other demands of reference formats, you may refer to the original re
   - [x] Update ICCV papers
   - [x] Update ICCVW papers
   - [x] Update ECCV papers
-  - [ ] Update ECCVW papers
   - [x] Update AAAI papers
   - [x] Update IJCAI papers
-  - [ ] Update ACM MM papers
+  - [x] Update ACM MM papers
   - [ ] Update WACV papers
   - [ ] Update ACCV papers
-  - [ ] Update NeurIPS papers
-  - [ ] Update ICLR papers
-  - [ ] Update SIGGRAPH papers
+  - [x] Update NeurIPS papers
+  - [x] Update ICLR papers
 - Published Papers on Journals
   - [ ] Update TMM papers
   - [ ] Update TIP papers
