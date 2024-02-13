@@ -38,6 +38,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2021](#sketch-year-2021)
     - [Year 2019](#sketch-year-2019)
   - [Face Image Inpainting](#face-image-inpainting)
+    - [Year 2023](#face-year-2023)
+    - [Year 2021](#face-year-2021)
     - [Year 2020](#face-year-2020)
     - [Year 2017](#face-year-2017)
   - [Fashion Image Inpainting](#fashion-image-inpainting)
