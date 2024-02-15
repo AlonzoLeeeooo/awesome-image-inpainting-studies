@@ -107,6 +107,8 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="vanilla-year-2024">**Year 2024**</span>
   - **WACV**
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
+  - **TMM**
+    - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
 - <span id="vanilla-year-2023">**Year 2023**</span>
   - **CVPRW**
     - Image Inpainting with Hypergraphs for Resolution Improvement in Scanning Acoustic Microscopy [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/DL-UIA/papers/Somani_Image_Inpainting_With_Hypergraphs_for_Resolution_Improvement_in_Scanning_Acoustic_CVPRW_2023_paper.pdf)
@@ -120,6 +122,9 @@ If you have other demands of reference formats, you may refer to the original re
     - Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Jain_Keys_To_Better_Image_Inpainting_Structure_and_Texture_Go_Hand_WACV_2023_paper.pdf) [[Code]](https://github.com/SHI-Labs/FcF-Inpainting)
     - ***GeoFill:*** Reference-Based Image Inpainting with Better Geometric Understanding [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Zhao_GeoFill_Reference-Based_Image_Inpainting_With_Better_Geometric_Understanding_WACV_2023_paper.pdf)
     - Image Completion with Heterogeneously Filtered Spectral Hints [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_Image_Completion_With_Heterogeneously_Filtered_Spectral_Hints_WACV_2023_paper.pdf) [[Code]](https://github.com/SHI-Labs/SH-GAN)
+  - **TMM**
+    - Learning Adaptive Patch Generators for Mask-Robust Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/9773024)
+    - ***W-Net:*** Structure and Texture Interaction for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/9939091) [[Code]](https://github.com/Evergrow/W-Net)
 - <span id="vanilla-year-2022">**Year 2022**</span>
   - **CVPR**
     - ***MISF:*** Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MISF_Multi-Level_Interactive_Siamese_Filtering_for_High-Fidelity_Image_Inpainting_CVPR_2022_paper.pdf) [[Code]](https://github.com/tsingqguo/misf)
@@ -155,6 +160,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Cross-Image Context for Single Image Inpainting [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/09b6e009612875dd0a7291d5f4fd8b49-Paper-Conference.pdf)
   - **WACV**
     - ***LaMa:*** Resolution-robust Large Mask Inpainting with Fourier Convolutions [[Paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.pdf) [[Code]](https://github.com/advimman/lama)
+  - **TMM**
+    - Deep Generative Model for Image Inpainting With Local Binary Pattern Learning and Spatial Attention [[Paper]](https://ieeexplore.ieee.org/document/9537606/) [[Code]](https://github.com/HighwayWu/ImageInpainting)
 - <span id="vanilla-year-2021">**Year 2021**</span>
   - **CVPR**
     - ***TransFill:*** Reference-Guided Image Inpainting by Merging Multiple Color and Spatial Transformations [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_TransFill_Reference-Guided_Image_Inpainting_by_Merging_Multiple_Color_and_Spatial_CVPR_2021_paper.pdf) [[Code]](https://github.com/yzhouas/TransFill-Reference-Inpainting)
@@ -245,6 +252,8 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="blind-year-2023">**Year 2023**</span>
   - **CVPRW**
     - Blind Image Inpainting via Omni-dimensional Gated Attention and Wavelet Queries [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Phutke_Blind_Image_Inpainting_via_Omni-Dimensional_Gated_Attention_and_Wavelet_Queries_CVPRW_2023_paper.pdf) [[Code]](https://github.com/shrutiphutke/Blind_Omni_Wav_Net)
+  - **TMM**
+    - ***FT-TDR:*** Frequency-Guided Transformer and Top-Down Refinement Network for Blind Face Inpainting [[Paper]](https://arxiv.org/pdf/2108.04424.pdf)
 - <span id="blind-year-2022">**Year 2022**</span>
   - **ACM MM**
     - ***TransCNN-HAE:*** Transformer-CNN Hybrid AutoEncoder for Blind Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547848)
@@ -295,9 +304,13 @@ If you have other demands of reference formats, you may refer to the original re
     - ***Unmasking Your Expression:*** Expression-Conditioned GAN for Masked Face Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/papers/Sola_Unmasking_Your_Expression_Expression-Conditioned_GAN_for_Masked_Face_Inpainting_CVPRW_2023_paper.pdf) [[Code]](https://github.com/SridharSola/ECGAN)
   - **WACV**
     - Nested Deformable Multi-head Attention for Facial Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Phutke_Nested_Deformable_Multi-Head_Attention_for_Facial_Image_Inpainting_WACV_2023_paper.pdf) [[Code]](https://github.com/shrutiphutke/NDMA_Facial_Inpainting)
+  - **TMM**
+    - Pluralistic Face Inpainting With Transformation of Attribute Information [[Paper]](https://ieeexplore.ieee.org/document/9991050)
 - <span id="face-year-2021">**Year 2021**</span>
   - **ACM MM**
     - When Face Completion Meets Irregular Holes: An Attributes Guided Deep Inpainting Network [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475466)
+  - **TMM**
+    - Recurrent Generative Adversarial Network for Face Completion [[Paper]](https://ieeexplore.ieee.org/document/9026767)
 - <span id="face-year-2020">**Year 2020**</span>
   - **CVPR**
     - Learning Oracle Attention for High-Fidelity Face Completion [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Learning_Oracle_Attention_for_High-Fidelity_Face_Completion_CVPR_2020_paper.pdf)
@@ -359,8 +372,7 @@ If you have other demands of reference formats, you may refer to the original re
   - [x] Update NeurIPS papers
   - [x] Update ICLR papers
 - Published Papers on Journals
-  - [ ] Update TMM papers
-  - [ ] Update TIP papers
-  - [ ] Update TCSVT papers
+  - [x] Update TMM papers
+  - [ ] Update TIP papers 
   - [ ] Update TPAMI papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
