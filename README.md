@@ -44,8 +44,12 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2020](#face-year-2020)
     - [Year 2017](#face-year-2017)
   - [Fashion Image Inpainting](#fashion-image-inpainting)
+    - [Year 2020](#fashion-year-2020)
     - [Year 2019](#fashion-year-2019)
   - [Conventional Methods](#conventional-methods) _(Non Deep Learning-Based)_
+      - [Year 2020](#conventional-year-2020)
+      - [Year 2019](#conventional-year-2019)
+      - [Year 2018](#conventional-year-2018)
       - [Year 2016](#conventional-year-2016)
       - [Year 2011](#conventional-year-2011)
       - [Year 2005](#conventional-year-2005)
@@ -132,6 +136,10 @@ If you have other demands of reference formats, you may refer to the original re
   - **TMM**
     - Learning Adaptive Patch Generators for Mask-Robust Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/9773024)
     - ***W-Net:*** Structure and Texture Interaction for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/9939091) [[Code]](https://github.com/Evergrow/W-Net)
+  - **TIP**
+    - Progressive Contextual Aggregation Empowered by Pixel-Wise Confidence Scoring for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038694)
+    - ***MagConv:*** Mask-Guided Convolution for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197350)
+    - Context Adaptive Network for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197333)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -172,6 +180,9 @@ If you have other demands of reference formats, you may refer to the original re
     - ***LaMa:*** Resolution-robust Large Mask Inpainting with Fourier Convolutions [[Paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.pdf) [[Code]](https://github.com/advimman/lama)
   - **TMM**
     - Deep Generative Model for Image Inpainting With Local Binary Pattern Learning and Spatial Attention [[Paper]](https://ieeexplore.ieee.org/document/9537606/) [[Code]](https://github.com/HighwayWu/ImageInpainting)
+  - **TIP**
+    - Image Inpainting With Local and Global Refinement [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730792)
+    - Pseudo Decoder Guided Light-Weight Architecture for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920660)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -201,6 +212,11 @@ If you have other demands of reference formats, you may refer to the original re
     - ***R-MNet:*** A Perceptual Adversarial Network for Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Jam_R-MNet_A_Perceptual_Adversarial_Network_for_Image_Inpainting_WACV_2021_paper.pdf) [[Code]](https://github.com/Jireh-Jam/R-MNet-Inpainting-keras)
     - Multi-Level Generative Chaotic Recurrent Network for Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Multi-Level_Generative_Chaotic_Recurrent_Network_for_Image_Inpainting_WACV_2021_paper.pdf) 
     - Hyperrealistic Image Inpainting with Hypergraphs [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf) [[Code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting)
+  - **TIP**
+    - Dynamic Selection Network for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9318551) [[Code]](https://github.com/wangning-001/DSNet)
+    - Thanka Mural Inpainting Based on Multi-Scale Adaptive Partial Convolution and Stroke-Like Mask [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9376641)
+    - Image Inpainting by End-to-End Cascaded Refinement With Mask Awareness [[Paper]](https://ieeexplore.ieee.org/document/9423556) [[Code]](https://github.com/MADF-inpainting/Pytorch-MADF)
+    - Texture Memory-Augmented Deep Patch-Based Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9597484)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -260,6 +276,7 @@ If you have other demands of reference formats, you may refer to the original re
     - Semantic Image Inpainting with Progressive Generative Networks [[Paper]](https://dl.acm.org/doi/10.1145/3240508.3240625) [[Code]](https://github.com/crashmoon/Progressive-Generative-Networks)
   - **NeurIPS**
     - Image Inpainting via Generative Multi-column Convolutional Neural Networks [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2018/file/6f3ef77ac0e3619e98159e9b6febf557-Paper.pdf) [[Code]](https://github.com/shepnerd/inpainting_gmcnn)
+  - Photo Realistic Image Completion via Dense Correspondence [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8410011)
 - <span id="vanilla-year-2017">**Year 2017**</span>
   - **CVPR**
     - High-Resolution Image Inpainting Using Multi-scale Neural Patch Synthesis [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_High-Resolution_Image_Inpainting_CVPR_2017_paper.pdf) [[Code]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)
@@ -358,7 +375,12 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Fashion Image Inpainting
+- <span id="fashion-year-2020">**Year 2020**</span> 
+  - **TIP**
+    - Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)
 - <span id="fashion-year-2019">**Year 2019**</span> 
+  - **TIP**
+    - Deep Portrait Image Completion and Extrapolation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8866746)
   - **ICCV**
     - ***FiNet:*** Compatible and Diverse Fashion Image Inpainting [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_FiNet_Compatible_and_Diverse_Fashion_Image_Inpainting_ICCV_2019_paper.pdf) [[Code]](https://github.com/Skype-line/FiNet-pytorch)
 
@@ -366,9 +388,19 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Conventional Methods
-- <span id="conventional-year-2016">**Year 2016**</span> 
+- <span id="conventional-year-2020">**Year 2020**</span>
+  - **TIP**
+    - Truncated Low-Rank and Total p Variation Constrained Color Image Completion and its Moreau Approximation Algorithm [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141413)
+- <span id="conventional-year-2019">**Year 2019**</span>
+    - Multiple Pyramids Based Image Inpainting Using Local Patch Statistics and Steering Kernel Feature [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733204)
+- <span id="conventional-year-2018">**Year 2018**</span>
+  - **TIP**
+    - A Group-Based Image Inpainting Using Patch Refinement in MRF Framework [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8089766)
+- <span id="conventional-year-2016">**Year 2016**</span>
   - **CVPR**
     - Multiview Image Completion with Space Structure Propagation [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Baek_Multiview_Image_Completion_CVPR_2016_paper.pdf)
+  - **TIP**
+    - Image Inpainting Through Metric Labeling via Guided Patch Mixing [[Paper]](https://ieeexplore.ieee.org/document/7559711)
 - <span id="conventional-year-2011">**Year 2011**</span> 
   - **ICIG**
     - Structure-Aware Image Completion with Texture Propagation [[Paper]](https://ieeexplore.ieee.org/document/6005583)
@@ -413,7 +445,7 @@ If you have other demands of reference formats, you may refer to the original re
   - [x] Update ICLR papers
 - Published Papers on Journals
   - [x] Update TMM papers
-  - [ ] Update TIP papers 
+  - [x] Update TIP papers 
   - [ ] Update TPAMI papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
