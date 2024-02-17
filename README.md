@@ -140,6 +140,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Progressive Contextual Aggregation Empowered by Pixel-Wise Confidence Scoring for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038694)
     - ***MagConv:*** Mask-Guided Convolution for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197350)
     - Context Adaptive Network for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197333)
+  - **TPAMI**
+    - Partial Convolution for Padding, Inpainting, and Image Synthesis [[Paper]](https://repository.bilkent.edu.tr/bitstream/handle/11693/111449/Partial_Convolution_for_Padding_Inpainting_and_Image_Synthesis.pdf?sequence=1) [[Code]](https://github.com/XingangPan/deep-generative-prior)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -183,6 +185,8 @@ If you have other demands of reference formats, you may refer to the original re
   - **TIP**
     - Image Inpainting With Local and Global Refinement [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730792)
     - Pseudo Decoder Guided Light-Weight Architecture for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920660)
+  - **TPAMI**
+    - Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation [[Paper]](https://doi.org/10.1109/TPAMI.2021.3115428) [[Code]](https://github.com/XingangPan/deep-generative-prior) [[Video]](https://www.youtube.com/watch?v=p7ToqtwfVko&feature=youtu.be)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -298,6 +302,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Blind Image Inpainting via Omni-dimensional Gated Attention and Wavelet Queries [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Phutke_Blind_Image_Inpainting_via_Omni-Dimensional_Gated_Attention_and_Wavelet_Queries_CVPRW_2023_paper.pdf) [[Code]](https://github.com/shrutiphutke/Blind_Omni_Wav_Net)
   - **TMM**
     - ***FT-TDR:*** Frequency-Guided Transformer and Top-Down Refinement Network for Blind Face Inpainting [[Paper]](https://arxiv.org/pdf/2108.04424.pdf)
+  - **TPAMI**
+    - Self-Prior Guided Pixel Adversarial Networks for Blind Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10147235)
 - <span id="blind-year-2022">**Year 2022**</span> 
   - **ACM MM**
     - ***TransCNN-HAE:*** Transformer-CNN Hybrid AutoEncoder for Blind Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547848)
@@ -309,6 +315,8 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Edge-Based Image Inpainting
+  - **TPAMI**
+    - ***ZITS++:*** Image Inpainting by Improving the Incremental Transformer on Structural Priors [[Paper]](https://ieeexplore.ieee.org/document/10136788) [[Code]](https://github.com/DQiaole/ZITS_inpainting) [[Project]](https://dqiaole.github.io/ZITS_inpainting/)
 - <span id="edge-year-2022">**Year 2022**</span> 
   - **CVPR**
     - ***ZITS:*** Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Incremental_Transformer_Structure_Enhanced_Image_Inpainting_With_Masking_Positional_Encoding_CVPR_2022_paper.pdf) [[Code]](https://github.com/DQiaole/ZITS_inpainting) [[Project]](https://dqiaole.github.io/ZITS_inpainting/)
@@ -446,7 +454,7 @@ If you have other demands of reference formats, you may refer to the original re
 - Published Papers on Journals
   - [x] Update TMM papers
   - [x] Update TIP papers 
-  - [ ] Update TPAMI papers
+  - [x] Update TPAMI papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
