@@ -9,6 +9,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
 - [References](#references)
+- [Survey Papers](#survey-papers)
 - [Papers](#papers) _(Mainly Deep Learning-Based)_
   - [🔥Text-Guided Image Inpainting](#🔥-text-guided-image-inpainting)
     - [Year 2023](#text-year-2023)
@@ -74,6 +75,15 @@ If you have other demands of reference formats, you may refer to the original re
  [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
+# Survey Papers
+- [IJCV 2024] Deep Learning-based Image and Video Inpainting: A Survey [[Paper]](https://arxiv.org/pdf/2401.03395.pdf)
+- [Pattern Recognit. 2023] Deep Learning for Image Inpainting: A Survey [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S003132032200526X)
+
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+
+<!-- omit in toc -->
 # Papers
 
 <!-- omit in toc -->
@@ -117,6 +127,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
   - **TMM**
     - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
+  - **AAAI**
+    - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -356,6 +368,9 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Face Image Inpainting
+- <span id="face-year-2024">**Year 2024**</span>
+  - **arXiv**
+    - Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting [[Paper]](https://arxiv.org/pdf/2401.10537.pdf)
 - <span id="face-year-2023">**Year 2023**</span> 
   - **CVPRW**
     - ***Unmasking Your Expression:*** Expression-Conditioned GAN for Masked Face Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/papers/Sola_Unmasking_Your_Expression_Expression-Conditioned_GAN_for_Masked_Face_Inpainting_CVPRW_2023_paper.pdf) [[Code]](https://github.com/SridharSola/ECGAN)
