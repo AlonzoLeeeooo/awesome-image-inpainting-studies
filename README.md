@@ -31,6 +31,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2022](#blind-year-2022)
     - [Year 2020](#blind-year-2020)
   - [Edge-Based Image Inpainting](#edge-based-image-inpainting)
+    - [Year 2023](#edge-year-2023)
     - [Year 2022](#edge-year-2022)
     - [Year 2021](#edge-year-2021)
     - [Year 2019](#edge-year-2019)
@@ -58,6 +59,7 @@ If you have any suggestions about this repository, please feel free to [start a 
       - [Year 2000](#conventional-year-2000)
 - [Datasets](#datasets)
 - [To-Do Lists](#to-do-lists)
+- [Q&A](#qa)
 
 <!-- omit in toc -->
 # References
@@ -97,10 +99,10 @@ If you have other demands of reference formats, you may refer to the original re
   - **CVPRW**
     - Scene Graph Driven Text-Prompt Generation for Image Inpainting
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Shukla_Scene_Graph_Driven_Text-Prompt_Generation_for_Image_Inpainting_CVPRW_2023_paper.pdf)
-  - **SIGGRAPH**
-    - Blended Latent Diffusion [[Paper]](https://omriavrahami.com/blended-latent-diffusion-page/static/paper/Blended_Latent_Diffusion_Paper.pdf) [[Code]](https://github.com/omriav/blended-diffusion?tab=readme-ov-file) [[Project]](https://omriavrahami.com/blended-latent-diffusion-page/)
   - **ACM MM**
     - ***Uni-paint:*** A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612200) [[Code]](https://github.com/ysy31415/unipaint)
+  - **SIGGRAPH**
+    - Blended Latent Diffusion [[Paper]](https://omriavrahami.com/blended-latent-diffusion-page/static/paper/Blended_Latent_Diffusion_Paper.pdf) [[Code]](https://github.com/omriav/blended-diffusion?tab=readme-ov-file) [[Project]](https://omriavrahami.com/blended-latent-diffusion-page/)
   - **WACV**
     - An Unified Framework for Language Guided Image Completion [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Kim_An_Unified_Framework_for_Language_Guided_Image_Completion_WACV_2023_paper.pdf)
     - Interactive Image Manipulation with Complex Text Instructions [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Morita_Interactive_Image_Manipulation_With_Complex_Text_Instructions_WACV_2023_paper.pdf)
@@ -125,10 +127,10 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="vanilla-year-2024">**Year 2024**</span> 
   - **WACV**
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
-  - **TMM**
-    - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
   - **AAAI**
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
+  - **TMM**
+    - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
   - **arXiv**
     - ***HINT:*** High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention [[Paper]]()
 
@@ -190,10 +192,10 @@ If you have other demands of reference formats, you may refer to the original re
     - Atrous Pyramid Transformer with Spectral Convolution for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548348)
     - Deep Multi-Resolution Mutual Learning for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548030)
     - ***T-former:*** An Efficient Transformer for Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548446) [[Code]](https://github.com/dengyecode/T-former_image_inpainting)
-  - **NeurIPS**
-    - Cross-Image Context for Single Image Inpainting [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/09b6e009612875dd0a7291d5f4fd8b49-Paper-Conference.pdf)
   - **WACV**
     - ***LaMa:*** Resolution-robust Large Mask Inpainting with Fourier Convolutions [[Paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.pdf) [[Code]](https://github.com/advimman/lama)
+  - **NeurIPS**
+    - Cross-Image Context for Single Image Inpainting [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/09b6e009612875dd0a7291d5f4fd8b49-Paper-Conference.pdf)
   - **TMM**
     - Deep Generative Model for Image Inpainting With Local Binary Pattern Learning and Spatial Attention [[Paper]](https://ieeexplore.ieee.org/document/9537606/) [[Code]](https://github.com/HighwayWu/ImageInpainting)
   - **TIP**
@@ -329,6 +331,7 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Edge-Based Image Inpainting
+- <span id="edge-year-2023">**Year 2023**</span> 
   - **TPAMI**
     - ***ZITS++:*** Image Inpainting by Improving the Incremental Transformer on Structural Priors [[Paper]](https://ieeexplore.ieee.org/document/10136788) [[Code]](https://github.com/DQiaole/ZITS_inpainting) [[Project]](https://dqiaole.github.io/ZITS_inpainting/)
 - <span id="edge-year-2022">**Year 2022**</span> 
@@ -465,6 +468,7 @@ If you have other demands of reference formats, you may refer to the original re
   - [x] Update AAAI papers
   - [x] Update IJCAI papers
   - [x] Update ACM MM papers
+  - [ ] Update SIGGRAPH papers
   - [x] Update WACV papers
   - [x] Update NeurIPS papers
   - [x] Update ICLR papers
@@ -472,6 +476,34 @@ If you have other demands of reference formats, you may refer to the original re
   - [x] Update TMM papers
   - [x] Update TIP papers 
   - [x] Update TPAMI papers
+  - [ ] Update TCSVT papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+
+<!-- omit in toc -->
+# Q&A
+- **Q: The conference sequence of this paper list?**
+  - This paper list is organized according to the following sequence:
+    - Conferences
+      - CVPR
+      - CVPRW
+      - ICCV
+      - ICCVW
+      - ECCV
+      - AAAI
+      - IJCAI
+      - WACV
+      - NeurIPS
+      - ICLR
+      - ACM MM
+      - SIGGRAPH
+    - Journals
+      - TMM
+      - TIP
+      - TPAMI
+      - TCSVT
+    - arXiv
 
 [<u><small><🎯Back to Top></small></u>](#contents)
