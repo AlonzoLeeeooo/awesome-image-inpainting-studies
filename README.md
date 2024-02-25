@@ -129,6 +129,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
   - **AAAI**
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
+  - **arXiv**
+    - ***HINT:*** High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention [[Paper]]()
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
