@@ -8,8 +8,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
-- [References](#references)
-- [Survey Papers](#survey-papers)
+- [To-Do Lists](#to-do-lists)
 - [Papers](#papers) _(Mainly Deep Learning-Based)_
   - [🔥Text-Guided Image Inpainting](#🔥-text-guided-image-inpainting)
     - [Year 2023](#text-year-2023)
@@ -57,30 +56,37 @@ If you have any suggestions about this repository, please feel free to [start a 
       - [Year 2005](#conventional-year-2005)
       - [Year 2004](#conventional-year-2004)
       - [Year 2000](#conventional-year-2000)
+- [Survey Papers](#survey-papers)
 - [Datasets](#datasets)
-- [To-Do Lists](#to-do-lists)
 - [Q&A](#qa)
+- [References](#references)
 
 <!-- omit in toc -->
-# References
-
-The `reference.bib` file summarizes bibtex references of up-to-date image inpainting papers, widely used datasets, and toolkits.
-Based on the original references, I have made the following modifications to make their results look nice in the `LaTeX` manuscripts:
-- Refereces are normally constructed in the form of `author-etal-year-nickname`. Particularly, references of datasets and toolkits are directly constructed as `nickname`, e.g., `imagenet`.
-- In each reference, all names of conferences/journals are converted into abbreviations, e.g., `Computer Vision and Pattern Recognition -> CVPR`.
-- The `url`, `doi`, `publisher`, `organization`, `editor`, `series` in all references are removed.
-- The `pages` of all references are added if they are missing.
-- All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
-
-If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
-
- [<u><small><🎯Back to Top></small></u>](#contents)
-
-<!-- omit in toc -->
-# Survey Papers
-- [IJCV 2024] Deep Learning-based Image and Video Inpainting: A Survey [[Paper]](https://arxiv.org/pdf/2401.03395.pdf)
-- [Pattern Recognit. 2023] Deep Learning for Image Inpainting: A Survey [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S003132032200526X)
-
+# To-Do Lists
+- Previous Papers
+  - Published Papers on Conferences
+    - [x] Update CVPR papers
+    - [x] Update CVPRW papers
+    - [x] Update ICCV papers
+    - [x] Update ICCVW papers
+    - [x] Update ECCV papers
+    - [x] Update AAAI papers
+    - [x] Update IJCAI papers
+    - [x] Update ACM MM papers
+    - [ ] Update SIGGRAPH papers
+    - [x] Update WACV papers
+    - [x] Update NeurIPS papers
+    - [x] Update ICLR papers
+  - Published Papers on Journals
+    - [x] Update TMM papers
+    - [x] Update TIP papers 
+    - [x] Update TPAMI papers
+    - [ ] Update TCSVT papers
+- Recent Papers
+  - [ ] Update AAAI 2024 Papers
+  - [ ] Update ICLR 2024 Papers
+  - [ ] Update CVPR 2024 Papers
+- Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -447,37 +453,20 @@ If you have other demands of reference formats, you may refer to the original re
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
+# Survey Papers
+- [IJCV 2024] Deep Learning-based Image and Video Inpainting: A Survey [[Paper]](https://arxiv.org/pdf/2401.03395.pdf)
+- [Pattern Recognit. 2023] Deep Learning for Image Inpainting: A Survey [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S003132032200526X)
+
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
 # Datasets
 - ***Paris StreetView:*** Context Encoders: Feature Learning by Inpainting [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) [[Code]](https://github.com/BoyuanJiang/context_encoder_pytorch) _(Since Google's terms of service has forbidden anyone from creating repositories of streetview data, the dataset is currently not available.)_
 - ***Places***: A 10 Million Image Database for Scene Recognition [[Paper]](http://places2.csail.mit.edu/PAMI_places.pdf) [[Dataset]](http://places2.csail.mit.edu/download.html)
 - ***ImageNet***: A Large-Scale Hierarchical Image Database [[Paper]](https://image-net.org/static_files/papers/imagenet_cvpr09.pdf) [[Dataset]](https://www.image-net.org/)
 - ***CelebA-HQ:*** Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Paper]](https://openreview.net/pdf?id=Hk99zCeAb) [[Dataset]](https://github.com/suvojit-0x55aa/celebA-HQ-dataset-download)
 - ***FFHQ:*** A Style-Based Generator Architecture for Generative Adversarial Networks [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) [[Dataset]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
-
-[<u><small><🎯Back to Top></small></u>](#contents)
-
-
-<!-- omit in toc -->
-# To-Do Lists
-- Published Papers on Conferences
-  - [x] Update CVPR papers
-  - [x] Update CVPRW papers
-  - [x] Update ICCV papers
-  - [x] Update ICCVW papers
-  - [x] Update ECCV papers
-  - [x] Update AAAI papers
-  - [x] Update IJCAI papers
-  - [x] Update ACM MM papers
-  - [ ] Update SIGGRAPH papers
-  - [x] Update WACV papers
-  - [x] Update NeurIPS papers
-  - [x] Update ICLR papers
-- Published Papers on Journals
-  - [x] Update TMM papers
-  - [x] Update TIP papers 
-  - [x] Update TPAMI papers
-  - [ ] Update TCSVT papers
-- Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -507,3 +496,19 @@ If you have other demands of reference formats, you may refer to the original re
     - arXiv
 
 [<u><small><🎯Back to Top></small></u>](#contents)
+
+
+<!-- omit in toc -->
+# References
+
+The `reference.bib` file summarizes bibtex references of up-to-date image inpainting papers, widely used datasets, and toolkits.
+Based on the original references, I have made the following modifications to make their results look nice in the `LaTeX` manuscripts:
+- Refereces are normally constructed in the form of `author-etal-year-nickname`. Particularly, references of datasets and toolkits are directly constructed as `nickname`, e.g., `imagenet`.
+- In each reference, all names of conferences/journals are converted into abbreviations, e.g., `Computer Vision and Pattern Recognition -> CVPR`.
+- The `url`, `doi`, `publisher`, `organization`, `editor`, `series` in all references are removed.
+- The `pages` of all references are added if they are missing.
+- All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
+
+If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
+
+ [<u><small><🎯Back to Top></small></u>](#contents)
