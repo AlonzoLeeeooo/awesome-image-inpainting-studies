@@ -7,7 +7,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # 🔥News
-- [Mar. 7th] **CVPR 2024 and AAAI 2024 papers are updated.** Note that papers are not available currently are highlighted with "⚠️". PDFs and references will be updated as soon as they are released.
+- [Mar. 7th] **CVPR 2024, AAAI 2024, ICLR 2024 papers are updated.** Note that papers are not available currently are highlighted with "⚠️". PDFs and references will be updated as soon as they are released.
 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
@@ -87,9 +87,10 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [x] Update TPAMI papers
     - [ ] Update TCSVT papers
 - Recent Papers
-  - [ ] Update AAAI 2024 Papers
-  - [ ] Update ICLR 2024 Papers
-  - [ ] Update CVPR 2024 Papers
+  - [x] Update CVPR 2024 Papers
+  - [x] Update AAAI 2024 Papers
+    - [ ] Update PDFs and References
+  - [x] Update ICLR 2024 Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
@@ -147,6 +148,9 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
     - ⚠️ SyFormer: Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [[Paper]]()
     - ⚠️ Large Occluded Human Image Completion via Image-Prior Cooperating [[Paper]]()
+  - **ICLR**
+    - Image Inpainting via Tractable Steering of Diffusion Models [[Paper]](https://openreview.net/attachment?id=NSIVHTbZBR&name=pdf)
+    - Image Inpainting via Iteratively Decoupled Probabilistic Modeling [[Paper]](https://openreview.net/attachment?id=rUf9G9k2im&name=pdf) [[Code]](https://github.com/fenglinglwb/PSM)
   - **TMM**
     - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
   - **arXiv**
