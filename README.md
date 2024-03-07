@@ -142,14 +142,14 @@ If you have any suggestions about this repository, please feel free to [start a 
 ## Vanilla Image Inpainting
 - <span id="vanilla-year-2024">**Year 2024**</span> 
   - **CVPR**
-    - ⚠️ Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting [[Paper]]()
-    - ⚠️ Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [[Paper]]()
+    - ⚠️ Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting [Paper]
+    - ⚠️ Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [Paper]
   - **WACV**
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
   - **AAAI**
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
-    - ⚠️ SyFormer: Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [[Paper]]()
-    - ⚠️ Large Occluded Human Image Completion via Image-Prior Cooperating [[Paper]]()
+    - ⚠️ SyFormer: Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [Paper]
+    - ⚠️ Large Occluded Human Image Completion via Image-Prior Cooperating [Paper]
   - **ICLR**
     - Image Inpainting via Tractable Steering of Diffusion Models [[Paper]](https://openreview.net/attachment?id=NSIVHTbZBR&name=pdf)
     - Image Inpainting via Iteratively Decoupled Probabilistic Modeling [[Paper]](https://openreview.net/attachment?id=rUf9G9k2im&name=pdf) [[Code]](https://github.com/fenglinglwb/PSM)
@@ -430,7 +430,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Fashion Image Inpainting
 - <span id="fashion-year-2024">**Year 2024**</span> 
-    - ⚠️ ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [[Paper]]()
+    - ⚠️ ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [Paper]
 - <span id="fashion-year-2019">**Year 2019**</span> 
   - **TIP**
     - Deep Portrait Image Completion and Extrapolation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8866746)
