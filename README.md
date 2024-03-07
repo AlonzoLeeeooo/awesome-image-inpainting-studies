@@ -5,6 +5,9 @@ This GitHub repository summarizes papers and resources related to the image inpa
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies/pulls).
 
+<!-- omit in toc -->
+# 🔥News
+- [Mar. 7th] **CVPR 2024 and AAAI 2024 papers are updated.** Note that papers are not available currently are highlighted with "⚠️". PDFs and references will be updated as soon as they are released.
 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
