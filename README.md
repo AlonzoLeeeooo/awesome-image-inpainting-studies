@@ -11,6 +11,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [To-Do Lists](#to-do-lists)
 - [Papers](#papers) _(Mainly Deep Learning-Based)_
   - [🔥Text-Guided Image Inpainting](#🔥-text-guided-image-inpainting)
+    - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
     - [Year 2021](#text-year-2021)
@@ -96,6 +97,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## 🔥 Text-Guided Image Inpainting
+- <span id="text-year-2024">**Year 2024**</span>
+  - **arXiv**
+    - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
 - <span id="text-year-2023">**Year 2023**</span> 
   - **CVPR**
     - ***NÜWA-LIP:*** Language-guided Image Inpainting with Defect-free VQGAN [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[Code]](https://github.com/kodenii/NUWA-LIP)
@@ -131,14 +135,19 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
 - <span id="vanilla-year-2024">**Year 2024**</span> 
+  - **CVPR**
+    - ⚠️ Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting [[Paper]]()
+    - ⚠️ Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [[Paper]]()
   - **WACV**
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
   - **AAAI**
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
+    - ⚠️ SyFormer: Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [[Paper]]()
+    - ⚠️ Large Occluded Human Image Completion via Image-Prior Cooperating [[Paper]]()
   - **TMM**
     - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
   - **arXiv**
-    - ***HINT:*** High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention [[Paper]]()
+    - ***HINT:*** High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention [[Paper]](https://arxiv.org/pdf/2402.14185.pdf)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -329,6 +338,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="blind-year-2022">**Year 2022**</span> 
   - **ACM MM**
     - ***TransCNN-HAE:*** Transformer-CNN Hybrid AutoEncoder for Blind Image Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547848)
+  - **IPTA**
+    - ***ARIN:*** Adaptive Resampling and Instance Normalization for Robust Blind Inpainting of Dunhuang Cave Paintings [[Paper]](https://arxiv.org/pdf/2402.16188.pdf)
 - <span id="blind-year-2020">**Year 2020**</span> 
   - **ECCV**
     - ***VCNet:*** A Robust Approach to Blind Image Inpainting [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf) [[Reproduced Code]](https://github.com/birdortyedi/vcnet-blind-image-inpainting)
@@ -409,9 +420,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Fashion Image Inpainting
-- <span id="fashion-year-2020">**Year 2020**</span> 
-  - **TIP**
-    - Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)
+- <span id="fashion-year-2024">**Year 2024**</span> 
+    - ⚠️ ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [[Paper]]()
 - <span id="fashion-year-2019">**Year 2019**</span> 
   - **TIP**
     - Deep Portrait Image Completion and Extrapolation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8866746)
@@ -424,6 +434,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 ## Conventional Methods
 - <span id="conventional-year-2020">**Year 2020**</span>
   - **TIP**
+    - Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)
     - Truncated Low-Rank and Total p Variation Constrained Color Image Completion and its Moreau Approximation Algorithm [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141413)
 - <span id="conventional-year-2019">**Year 2019**</span>
     - Multiple Pyramids Based Image Inpainting Using Local Patch Statistics and Steering Kernel Feature [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733204)
@@ -488,6 +499,7 @@ If you have any suggestions about this repository, please feel free to [start a 
       - ICLR
       - ACM MM
       - SIGGRAPH
+      - IPTA
     - Journals
       - TMM
       - TIP
