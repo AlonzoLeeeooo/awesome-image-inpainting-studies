@@ -102,6 +102,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## 🔥 Text-Guided Image Inpainting
 - <span id="text-year-2024">**Year 2024**</span>
+  - **ICLR**
+    - ***MaGIC:*** Multi-modality Guided Image Completion [[Paper]](https://openreview.net/pdf?id=o7x0XVlCpX) [[Code]](https://github.com/yeates/MaGIC)
   - **arXiv**
     - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
 - <span id="text-year-2023">**Year 2023**</span> 
