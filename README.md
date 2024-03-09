@@ -68,6 +68,13 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # To-Do Lists
+- Recent Papers
+  - [x] Update CVPR 2024 Papers
+  - [x] Update AAAI 2024 Papers
+    - [ ] Update PDFs and References
+  - [x] Update ICLR 2024 Papers
+  - [ ] Update NeurIPS 2024 Papers
+  - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 - Previous Papers
   - Published Papers on Conferences
     - [x] Update CVPR papers
@@ -87,12 +94,6 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [x] Update TIP papers 
     - [x] Update TPAMI papers
     - [ ] Update TCSVT papers
-- Recent Papers
-  - [x] Update CVPR 2024 Papers
-  - [x] Update AAAI 2024 Papers
-    - [ ] Update PDFs and References
-  - [x] Update ICLR 2024 Papers
-- Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
