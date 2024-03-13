@@ -85,7 +85,6 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [x] Update AAAI papers
     - [x] Update IJCAI papers
     - [x] Update ACM MM papers
-    - [ ] Update SIGGRAPH papers
     - [x] Update WACV papers
     - [x] Update NeurIPS papers
     - [x] Update ICLR papers
@@ -93,7 +92,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [x] Update TMM papers
     - [x] Update TIP papers 
     - [x] Update TPAMI papers
-    - [ ] Update TCSVT papers
+    - [x] Update TCSVT papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -157,6 +156,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Image Inpainting via Iteratively Decoupled Probabilistic Modeling [[Paper]](https://openreview.net/attachment?id=rUf9G9k2im&name=pdf) [[Code]](https://github.com/fenglinglwb/PSM)
   - **TMM**
     - Mutual Dual-Task Generator With Adaptive Attention Fusion for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/document/10143682)
+  - **TCSVT**
+    - Transformer-Based Image Inpainting Detection via Label Decoupling and Constrained Adversarial Training [[Paper]](https://ieeexplore.ieee.org/document/10196329)
   - **arXiv**
     - ***HINT:*** High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention [[Paper]](https://arxiv.org/pdf/2402.14185.pdf)
 
@@ -184,6 +185,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Context Adaptive Network for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197333)
   - **TPAMI**
     - Partial Convolution for Padding, Inpainting, and Image Synthesis [[Paper]](https://repository.bilkent.edu.tr/bitstream/handle/11693/111449/Partial_Convolution_for_Padding_Inpainting_and_Image_Synthesis.pdf?sequence=1) [[Code]](https://github.com/XingangPan/deep-generative-prior)
+  - **TCSVT**
+    - Deep Image Inpainting With Enhanced Normalization and Contextual Attention [[Paper]](https://ieeexplore.ieee.org/document/9775085)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -229,6 +232,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Pseudo Decoder Guided Light-Weight Architecture for Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920660)
   - **TPAMI**
     - Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation [[Paper]](https://doi.org/10.1109/TPAMI.2021.3115428) [[Code]](https://github.com/XingangPan/deep-generative-prior) [[Video]](https://www.youtube.com/watch?v=p7ToqtwfVko&feature=youtu.be)
+  - **TCSVT** 
+    - Dual-Pyramidal Image Inpainting With Dynamic Normalization [[Paper]](https://ieeexplore.ieee.org/document/9751095)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -263,6 +268,9 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Thanka Mural Inpainting Based on Multi-Scale Adaptive Partial Convolution and Stroke-Like Mask [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9376641)
     - Image Inpainting by End-to-End Cascaded Refinement With Mask Awareness [[Paper]](https://ieeexplore.ieee.org/document/9423556) [[Code]](https://github.com/MADF-inpainting/Pytorch-MADF)
     - Texture Memory-Augmented Deep Patch-Based Image Inpainting [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9597484)
+  - **TCSVT**
+    - Reference-Guided Landmark Image Inpainting With Deep Feature Matching [[Paper]](https://ieeexplore.ieee.org/document/9840396) [[Project]](http://home.ustc.edu.cn/~jclee/publication/2022-07-26-TCSVT-RefMatch.html)
+    - Generative Memory-Guided Semantic Reasoning Model for Image Inpainting [[Paper]](https://arxiv.org/pdf/2110.00261.pdf)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -369,6 +377,8 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **ICCV**
     - Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Learning_a_Sketch_Tensor_Space_for_Image_Inpainting_of_Man-Made_ICCV_2021_paper.pdf)
     - ***CTSDG:*** Image Inpainting via Conditional Texture and Structure Dual Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Image_Inpainting_via_Conditional_Texture_and_Structure_Dual_Generation_ICCV_2021_paper.pdf) [[Code]](https://github.com/xiefan-guo/ctsdg)
+  - **TCSVT**
+    - E2I: Generative Inpainting From Edge to Image [[Paper]](https://ieeexplore.ieee.org/document/9113276) [[Code]](https://github.com/powder21/E2I-inpainting)
 - <span id="edge-year-2019">**Year 2019**</span> 
   - **ICCV**
     - ***DeepFill-v2:*** Free-Form Image Inpainting With Gated Convolution [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Free-Form_Image_Inpainting_With_Gated_Convolution_ICCV_2019_paper.pdf) [[Code]](https://github.com/JiahuiYu/generative_inpainting) [[Project]](https://jiahuiyu.com/deepfill) [[Video]](https://www.youtube.com/watch?v=uZkEi9Y2dj4&feature=youtu.be)
@@ -402,6 +412,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Face Image Inpainting
 - <span id="face-year-2024">**Year 2024**</span>
+  - **TCSVT**
+    - Learning from Text: A Multimodal Face Inpainting Network for Irregular Holes [[Paper]](https://ieeexplore.ieee.org/document/10445705)
   - **arXiv**
     - Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting [[Paper]](https://arxiv.org/pdf/2401.10537.pdf)
 - <span id="face-year-2023">**Year 2023**</span> 
@@ -411,6 +423,12 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Nested Deformable Multi-head Attention for Facial Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Phutke_Nested_Deformable_Multi-Head_Attention_for_Facial_Image_Inpainting_WACV_2023_paper.pdf) [[Code]](https://github.com/shrutiphutke/NDMA_Facial_Inpainting)
   - **TMM**
     - Pluralistic Face Inpainting With Transformation of Attribute Information [[Paper]](https://ieeexplore.ieee.org/document/9991050)
+  - **TCSVT**
+    - Reference-Guided Large-Scale Face Inpainting With Identity and Texture Control [[Paper]](https://ieeexplore.ieee.org/document/10068561)
+- <span id="face-year-2022">**Year 2022**</span> 
+  - **TCSVT**
+    - ***SwapInpaint:*** Identity-Specific Face Inpainting With Identity Swapping [[Paper]](https://ieeexplore.ieee.org/document/9625034)
+    - Simultaneous Face Completion and Frontalization via Mask Guided Two-Stage GAN [[Paper]](https://ieeexplore.ieee.org/document/9535188)
 - <span id="face-year-2021">**Year 2021**</span> 
   - **ACM MM**
     - When Face Completion Meets Irregular Holes: An Attributes Guided Deep Inpainting Network [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475466)
