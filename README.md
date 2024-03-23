@@ -52,6 +52,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2020](#fashion-year-2020)
     - [Year 2019](#fashion-year-2019)
   - [Conventional Methods](#conventional-methods) _(Non Deep Learning-Based)_
+      - [Year 2024](#conventional-year-2024)
       - [Year 2020](#conventional-year-2020)
       - [Year 2019](#conventional-year-2019)
       - [Year 2018](#conventional-year-2018)
@@ -107,6 +108,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***MaGIC:*** Multi-modality Guided Image Completion [[Paper]](https://openreview.net/pdf?id=o7x0XVlCpX) [[Code]](https://github.com/yeates/MaGIC)
   - **arXiv**
     - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
+    - ***DesignEdit:*** Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing [[Paper]](https://arxiv.org/pdf/2403.14487.pdf) [[Code]](https://github.com/design-edit/DesignEdit) [[Project]](https://design-edit.github.io/)
+    - - ***BrushNet:*** A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion [[Paper]](https://arxiv.org/pdf/2403.06976)
 - <span id="text-year-2023">**Year 2023**</span> 
   - **CVPR**
     - ***NÜWA-LIP:*** Language-guided Image Inpainting with Defect-free VQGAN [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[Code]](https://github.com/kodenii/NUWA-LIP)
@@ -160,6 +163,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Transformer-Based Image Inpainting Detection via Label Decoupling and Constrained Adversarial Training [[Paper]](https://ieeexplore.ieee.org/document/10196329)
   - **arXiv**
     - ***HINT:*** High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention [[Paper]](https://arxiv.org/pdf/2402.14185.pdf)
+    - Rethinking Referring Object Removal [[Paper]](https://arxiv.org/pdf/2403.09128.pdf)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -416,6 +420,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Learning from Text: A Multimodal Face Inpainting Network for Irregular Holes [[Paper]](https://ieeexplore.ieee.org/document/10445705)
   - **arXiv**
     - Learning Position-Aware Implicit Neural Network for Real-World Face Inpainting [[Paper]](https://arxiv.org/pdf/2401.10537.pdf)
+    - ***E2F-Net:*** Eyes-to-Face Inpainting via StyleGAN Latent Space [[Paper]](https://arxiv.org/pdf/2403.12197)
 - <span id="face-year-2023">**Year 2023**</span> 
   - **CVPRW**
     - ***Unmasking Your Expression:*** Expression-Conditioned GAN for Masked Face Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/papers/Sola_Unmasking_Your_Expression_Expression-Conditioned_GAN_for_Masked_Face_Inpainting_CVPRW_2023_paper.pdf) [[Code]](https://github.com/SridharSola/ECGAN)
@@ -461,6 +466,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Conventional Methods
+- <span id="conventional-year-2024">**Year 2024**</span>
+  - **arXiv**
+    - ***HySim:*** An Efficient Hybrid Similarity Measure for Patch Matching in Image Inpainting [[Paper]](https://arxiv.org/pdf/2403.14292.pdf)
 - <span id="conventional-year-2020">**Year 2020**</span>
   - **TIP**
     - Image Inpainting Using Nonlocal Texture Matching and Nonlinear Filtering [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8531678)
