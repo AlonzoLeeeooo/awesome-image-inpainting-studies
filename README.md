@@ -455,7 +455,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Fashion Image Inpainting
 - <span id="fashion-year-2024">**Year 2024**</span> 
-    - ⚠️ ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [Paper]
+    - ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28885)
 - <span id="fashion-year-2019">**Year 2019**</span> 
   - **TIP**
     - Deep Portrait Image Completion and Extrapolation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8866746)
