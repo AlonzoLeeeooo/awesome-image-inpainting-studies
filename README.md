@@ -7,6 +7,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # 🔥News
+- [May 17th] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
 - [Mar. 7th] **CVPR 2024, AAAI 2024, ICLR 2024 papers are updated.** Note that papers are not available currently are highlighted with "⚠️". PDFs and references will be updated as soon as they are released.
 
 <!-- omit in toc -->
