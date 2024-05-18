@@ -40,6 +40,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2021](#edge-year-2021)
     - [Year 2019](#edge-year-2019)
   - [Sketch-Guided Image Inpainting](#sketch-guided-image-inpainting)
+    - [Year 2024](#sketch-year-2024)
     - [Year 2023](#sketch-year-2023)
     - [Year 2022](#sketch-year-2022)
     - [Year 2021](#sketch-year-2021)
@@ -395,6 +396,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Sketch-Guided Image Inpainting
+- <span id="sketch-year-2024">**Year 2024**</span> 
+  - **TMM**
+      - ***SketchRefiner:*** Towards Interactive Image Inpainting via Robust Sketch Refinement [[Paper]](https://ieeexplore.ieee.org/document/10533842) [[Code]](https://github.com/AlonzoLeeeooo/SketchRefiner) [[Project]](https://alonzoleeeooo.github.io/SketchRefiner/)
 - <span id="sketch-year-2023">**Year 2023**</span> 
   - **ACM MM**
     - ***Draw2Edit:*** Mask-Free Sketch-Guided Image Manipulation [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612398) [[Code]](https://github.com/YiwenXu/Draw2Edit)
