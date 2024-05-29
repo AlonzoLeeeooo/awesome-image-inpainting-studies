@@ -148,8 +148,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 ## Vanilla Image Inpainting
 - <span id="vanilla-year-2024">**Year 2024**</span> 
   - **CVPR**
+    - ***Structure Matters:*** Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/abs/2403.19898) [[Code]](https://github.com/htyjers/StrDiffusion)
     - ⚠️ Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting [Paper]
-    - ⚠️ Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [Paper]
   - **WACV**
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
   - **AAAI**
