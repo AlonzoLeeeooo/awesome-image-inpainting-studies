@@ -8,7 +8,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # 🔥News
 - [May 17th] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
-- [Mar. 7th] **CVPR 2024, AAAI 2024, ICLR 2024 papers are updated.** Note that papers are not available currently are highlighted with "⚠️". PDFs and references will be updated as soon as they are released.
+- [Mar. 7th] **CVPR 2024, AAAI 2024, ICLR 2024 papers are updated.** PDFs and references will be updated as soon as they are released. [May 29th] Papers with "⚠" are updated.
 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
@@ -149,13 +149,13 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="vanilla-year-2024">**Year 2024**</span> 
   - **CVPR**
     - ***Structure Matters:*** Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/abs/2403.19898) [[Code]](https://github.com/htyjers/StrDiffusion)
-    - ⚠️ Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting [Paper]
+    - Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting [[Paper]](https://arxiv.org/pdf/2403.18186) 
   - **WACV**
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
   - **AAAI**
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
-    - ⚠️ SyFormer: Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [Paper]
-    - ⚠️ Large Occluded Human Image Completion via Image-Prior Cooperating [Paper]
+    - ***SyFormer: *** Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28417) [[Code]](https://github.com/ZhengJianwei2/SyFormer)
+    - Large Occluded Human Image Completion via Image-Prior Cooperating [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28578) [[Code]](https://github.com/ZhaoHengrun/LOHC)
   - **ICLR**
     - Image Inpainting via Tractable Steering of Diffusion Models [[Paper]](https://openreview.net/attachment?id=NSIVHTbZBR&name=pdf)
     - Image Inpainting via Iteratively Decoupled Probabilistic Modeling [[Paper]](https://openreview.net/attachment?id=rUf9G9k2im&name=pdf) [[Code]](https://github.com/fenglinglwb/PSM)
