@@ -240,6 +240,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation [[Paper]](https://doi.org/10.1109/TPAMI.2021.3115428) [[Code]](https://github.com/XingangPan/deep-generative-prior) [[Video]](https://www.youtube.com/watch?v=p7ToqtwfVko&feature=youtu.be)
   - **TCSVT** 
     - Dual-Pyramidal Image Inpainting With Dynamic Normalization [[Paper]](https://ieeexplore.ieee.org/document/9751095)
+  - **arXiv**
+    - ***GRIG:*** Few-Shot Generative Residual Image Inpainting [[Paper]](https://arxiv.org/abs/2304.12035) [[Code]](https://github.com/LonglongaaaGo/GRIG_few_shot_inpainting) [[Project]](https://longlongaaago.github.io/GRIG_few_shot_inpainting/)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -439,6 +441,8 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **TCSVT**
     - ***SwapInpaint:*** Identity-Specific Face Inpainting With Identity Swapping [[Paper]](https://ieeexplore.ieee.org/document/9625034)
     - Simultaneous Face Completion and Frontalization via Mask Guided Two-Stage GAN [[Paper]](https://ieeexplore.ieee.org/document/9535188)
+  - **arXiv**
+    - Do Inpainting Yourself: Generative Facial Inpainting Guided by Exemplars [[Paper]](https://arxiv.org/pdf/2202.06358) [[Code]](https://github.com/LonglongaaaGo/EXE-GAN) [[Project]](https://longlongaaago.github.io/EXE-GAN/)
 - <span id="face-year-2021">**Year 2021**</span> 
   - **ACM MM**
     - When Face Completion Meets Irregular Holes: An Attributes Guided Deep Inpainting Network [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475466)
