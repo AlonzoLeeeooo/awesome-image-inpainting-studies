@@ -112,6 +112,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
     - ***DesignEdit:*** Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing [[Paper]](https://arxiv.org/pdf/2403.14487.pdf) [[Code]](https://github.com/design-edit/DesignEdit) [[Project]](https://design-edit.github.io/)
     - ***BrushNet:*** A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion [[Paper]](https://arxiv.org/pdf/2403.06976) [[Code]](https://github.com/TencentARC/BrushNet) [[Project]](https://tencentarc.github.io/BrushNet/) [[Demo]](https://huggingface.co/spaces/TencentARC/BrushNet) [[Video]](https://drive.google.com/file/d/1IkEBWcd2Fui2WHcckap4QFPcCI0gkHBh/view?usp=sharing)
+    - ***Anywhere:*** A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting [[Paper]](https://arxiv.org/abs/2404.18598) [[Code]](https://github.com/Sealical/anywhere-multi-agent) [[Project]](https://anywheremultiagent.github.io/)
 - <span id="text-year-2023">**Year 2023**</span> 
   - **CVPR**
     - ***NÜWA-LIP:*** Language-guided Image Inpainting with Defect-free VQGAN [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[Code]](https://github.com/kodenii/NUWA-LIP)
