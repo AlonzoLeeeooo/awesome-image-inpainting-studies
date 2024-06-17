@@ -74,7 +74,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - Recent Papers
   - [x] Update CVPR 2024 Papers
   - [x] Update AAAI 2024 Papers
-    - [ ] Update PDFs and References
+    - [x] Update PDFs and References
   - [x] Update ICLR 2024 Papers
   - [ ] Update NeurIPS 2024 Papers
   - Regular Maintenance of Preprint arXiv Papers and Missed Papers
@@ -155,7 +155,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
   - **AAAI**
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
-    - ***SyFormer: *** Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28417) [[Code]](https://github.com/ZhengJianwei2/SyFormer)
+    - ***SyFormer:*** Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28417) [[Code]](https://github.com/ZhengJianwei2/SyFormer)
     - Large Occluded Human Image Completion via Image-Prior Cooperating [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28578) [[Code]](https://github.com/ZhaoHengrun/LOHC)
   - **ICLR**
     - Image Inpainting via Tractable Steering of Diffusion Models [[Paper]](https://openreview.net/attachment?id=NSIVHTbZBR&name=pdf)
