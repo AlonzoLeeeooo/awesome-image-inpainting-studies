@@ -72,6 +72,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # To-Do Lists
 - Recent Papers
+  - [ ] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
   - [x] Update AAAI 2024 Papers
     - [x] Update PDFs and References
