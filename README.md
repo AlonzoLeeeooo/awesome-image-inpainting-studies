@@ -107,6 +107,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## 🔥 Text-Guided Image Inpainting
 - <span id="text-year-2024">**Year 2024**</span>
+  - **ECCV**
+    - A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting [[Paper]](https://arxiv.org/pdf/2312.03594) [[Code]](https://powerpaint.github.io/) [[Project]](https://powerpaint.github.io/)
   - **ICLR**
     - ***MaGIC:*** Multi-modality Guided Image Completion [[Paper]](https://openreview.net/pdf?id=o7x0XVlCpX) [[Code]](https://github.com/yeates/MaGIC)
   - **arXiv**
