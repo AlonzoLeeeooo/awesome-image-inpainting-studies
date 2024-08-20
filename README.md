@@ -111,6 +111,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting [[Paper]](https://arxiv.org/pdf/2312.03594) [[Code]](https://powerpaint.github.io/) [[Project]](https://powerpaint.github.io/)
   - **ICLR**
     - ***MaGIC:*** Multi-modality Guided Image Completion [[Paper]](https://openreview.net/pdf?id=o7x0XVlCpX) [[Code]](https://github.com/yeates/MaGIC)
+  - **SIGGRAPH**
+    - ***RealFill:*** Reference-Driven Generation for Authentic Image Completion [[Paper]](https://arxiv.org/html/2309.16668v2) [[Code]](https://github.com/thuanz123/realfill) [[Project]](https://realfill.github.io/)
   - **arXiv**
     - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
     - ***DesignEdit:*** Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing [[Paper]](https://arxiv.org/pdf/2403.14487.pdf) [[Code]](https://github.com/design-edit/DesignEdit) [[Project]](https://design-edit.github.io/)
