@@ -158,6 +158,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting [[Paper]](https://arxiv.org/pdf/2403.18186) 
   - **WACV**
     - Efficient Layout-Guided Image Inpainting for Mobile Use [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Efficient_Layout-Guided_Image_Inpainting_for_Mobile_Use_WACV_2024_paper.pdf)
+    - ***LatentPaint:*** Image Inpainting in Latent Space with Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Corneanu_LatentPaint_Image_Inpainting_in_Latent_Space_With_Diffusion_Models_WACV_2024_paper.pdf)
   - **AAAI**
     - Text Image Inpainting via Global Structure-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2401.14832.pdf) [[Code]](https://github.com/blackprotoss/GSDM)
     - ***SyFormer:*** Structure-Guided Synergism Transformer for Large-Portion Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28417) [[Code]](https://github.com/ZhengJianwei2/SyFormer)
