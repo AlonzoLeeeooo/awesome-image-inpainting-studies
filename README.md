@@ -250,6 +250,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Dual-Pyramidal Image Inpainting With Dynamic Normalization [[Paper]](https://ieeexplore.ieee.org/document/9751095)
   - **arXiv**
     - ***GRIG:*** Few-Shot Generative Residual Image Inpainting [[Paper]](https://arxiv.org/abs/2304.12035) [[Code]](https://github.com/LonglongaaaGo/GRIG_few_shot_inpainting) [[Project]](https://longlongaaago.github.io/GRIG_few_shot_inpainting/)
+    - Feature Refinement to Improve High Resolution Image Inpainting [[Paper]](https://arxiv.org/abs/2206.13644)
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
