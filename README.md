@@ -108,6 +108,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## 🔥 Text-Guided Image Inpainting
 - <span id="text-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - ***AnyDoor:*** Zero-shot Object-level Image Customization [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_AnyDoor_Zero-shot_Object-level_Image_Customization_CVPR_2024_paper.pdf) [[Code]](https://github.com/ali-vilab/AnyDoor) [[Project]](https://ali-vilab.github.io/AnyDoor-Page/)
   - **ECCV**
     - A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting [[Paper]](https://arxiv.org/pdf/2312.03594) [[Code]](https://powerpaint.github.io/) [[Project]](https://powerpaint.github.io/)
   - **ICLR**
