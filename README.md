@@ -73,7 +73,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # To-Do Lists
 - Recent Papers
-  - [ ] Update ECCV 2024 Papers
+  - [x] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
   - [x] Update AAAI 2024 Papers
     - [x] Update PDFs and References
@@ -112,6 +112,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***AnyDoor:*** Zero-shot Object-level Image Customization [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_AnyDoor_Zero-shot_Object-level_Image_Customization_CVPR_2024_paper.pdf) [[Code]](https://github.com/ali-vilab/AnyDoor) [[Project]](https://ali-vilab.github.io/AnyDoor-Page/)
   - **ECCV**
     - A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting [[Paper]](https://arxiv.org/pdf/2312.03594) [[Code]](https://powerpaint.github.io/) [[Project]](https://powerpaint.github.io/)
+    - ***BrushNet:*** A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion [[Paper]](https://arxiv.org/pdf/2403.06976) [[Code]](https://github.com/TencentARC/BrushNet) [[Project]](https://tencentarc.github.io/BrushNet/) [[Demo]](https://huggingface.co/spaces/TencentARC/BrushNet) [[Video]](https://drive.google.com/file/d/1IkEBWcd2Fui2WHcckap4QFPcCI0gkHBh/view?usp=sharing)
   - **ICLR**
     - ***MaGIC:*** Multi-modality Guided Image Completion [[Paper]](https://openreview.net/pdf?id=o7x0XVlCpX) [[Code]](https://github.com/yeates/MaGIC)
   - **SIGGRAPH**
@@ -119,7 +120,6 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **arXiv**
     - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
     - ***DesignEdit:*** Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing [[Paper]](https://arxiv.org/pdf/2403.14487.pdf) [[Code]](https://github.com/design-edit/DesignEdit) [[Project]](https://design-edit.github.io/)
-    - ***BrushNet:*** A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion [[Paper]](https://arxiv.org/pdf/2403.06976) [[Code]](https://github.com/TencentARC/BrushNet) [[Project]](https://tencentarc.github.io/BrushNet/) [[Demo]](https://huggingface.co/spaces/TencentARC/BrushNet) [[Video]](https://drive.google.com/file/d/1IkEBWcd2Fui2WHcckap4QFPcCI0gkHBh/view?usp=sharing)
     - ***Anywhere:*** A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting [[Paper]](https://arxiv.org/abs/2404.18598) [[Code]](https://github.com/Sealical/anywhere-multi-agent) [[Project]](https://anywheremultiagent.github.io/)
 - <span id="text-year-2023">**Year 2023**</span> 
   - **CVPR**
