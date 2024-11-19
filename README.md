@@ -5,8 +5,10 @@ This GitHub repository summarizes papers and resources related to the image inpa
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies/pulls).
 
+🔥 [Nov. 19th] We have release our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
+
 <!-- omit in toc -->
-# 🔥News
+# 🔥 News
 - [May 29th] Papers with "⚠" are updated.
 - [May 17th] Our paper titled ["Towards Interactive Image Inpainting via Robust Sketch Refinement"](https://ieeexplore.ieee.org/document/10533842) is accepted by TMM 2024! 
 - [Mar. 7th] **CVPR 2024, AAAI 2024, ICLR 2024 papers are updated.** PDFs and references will be updated as soon as they are released.
