@@ -124,6 +124,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Outline-Guided Object Inpainting with Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.16421.pdf)
     - ***DesignEdit:*** Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing [[Paper]](https://arxiv.org/pdf/2403.14487.pdf) [[Code]](https://github.com/design-edit/DesignEdit) [[Project]](https://design-edit.github.io/)
     - ***Anywhere:*** A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting [[Paper]](https://arxiv.org/abs/2404.18598) [[Code]](https://github.com/Sealical/anywhere-multi-agent) [[Project]](https://anywheremultiagent.github.io/)
+    - ***BrushEdit:*** All-In-One Image Inpainting and Editing [[Paper]](https://arxiv.org/pdf/2412.10316) [[Project]]((https://liyaowei-stu.github.io/project/BrushEdit/index.html) [[Demo]](https://huggingface.co/spaces/TencentARC/BrushEdit)
 - <span id="text-year-2023">**Year 2023**</span> 
   - **CVPR**
     - ***NÜWA-LIP:*** Language-guided Image Inpainting with Defect-free VQGAN [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[Code]](https://github.com/kodenii/NUWA-LIP)
