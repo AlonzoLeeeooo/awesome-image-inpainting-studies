@@ -75,6 +75,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # To-Do Lists
 - Recent Papers
+  - [ ] Update CVPR 2025 Papers
+  - [ ] Update ICLR 2025 Papers
   - [ ] Update NeurIPS 2024 Papers
   - [x] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
