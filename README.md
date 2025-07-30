@@ -117,6 +117,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***TurboFill:*** Adapting Few-step Text-to-image Model for Fast Image Inpainting [[Paper]](https://arxiv.org/pdf/2504.00996) [[Project]](https://liangbinxie.github.io/projects/TurboFill/)
     - ***Towards Enhanced Image Inpainting:*** Mitigating Unwanted Object Insertion and Preserving Color Consistency [[Paper]](https://arxiv.org/pdf/2312.04831) [[Project]](https://yikai-wang.github.io/asuka/) [[Code]](https://github.com/Yikai-Wang/asuka-misato)
     - ***RAD:*** Region-Aware Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/pdf/2412.09191)
+  - **ICLR**
+    - ***HD-Painter:*** High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models [[Paper]](https://openreview.net/forum?id=6lB5qtdYAg) [[Code]](https://github.com/Picsart-AI-Research/HD-Painter)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***AnyDoor:*** Zero-shot Object-level Image Customization [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_AnyDoor_Zero-shot_Object-level_Image_Customization_CVPR_2024_paper.pdf) [[Code]](https://github.com/ali-vilab/AnyDoor) [[Project]](https://ali-vilab.github.io/AnyDoor-Page/)
