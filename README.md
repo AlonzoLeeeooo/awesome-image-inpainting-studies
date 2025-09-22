@@ -71,6 +71,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [Q&A](#qa)
 - [References](#references)
 - [Star History](#star-history)
+- [WeChat Group](#wechat-group)
 
 <!-- omit in toc -->
 # To-Do Lists
@@ -603,5 +604,17 @@ If you have other demands of reference formats, you may refer to the original re
         <img width="500" src="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-image-inpainting-studies&type=Date" alt="Star History Chart">
     </a>
 <p>
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+
+<!-- omit in toc -->
+# WeChat Group
+
+<div align="center">
+  <a href="YOUR_OFFICIAL_WEBSITE_URL">
+    <img src="assets/group.png" alt="group">
+  </a>
+</div>
 
 [<u><small><🎯Back to Top></small></u>](#contents)
