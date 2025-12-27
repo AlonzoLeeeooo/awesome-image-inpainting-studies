@@ -20,6 +20,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [To-Do Lists](#to-do-lists)
 - [Papers](#papers) _(Mainly Deep Learning-Based)_
   - [🔥Text-Guided Image Inpainting](#🔥-text-guided-image-inpainting)
+    - [Year 2026](#text-year-2026)
+    - [Year 2025](#text-year-2025)
     - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
@@ -115,6 +117,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## 🔥 Text-Guided Image Inpainting
+- <span id="text-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - ***FreeInpaint***: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting [[Paper]](https://arxiv.org/abs/2512.21104) [[Code]](https://github.com/CharlesGong12/FreeInpaint)
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***TurboFill:*** Adapting Few-step Text-to-image Model for Fast Image Inpainting [[Paper]](https://arxiv.org/pdf/2504.00996) [[Project]](https://liangbinxie.github.io/projects/TurboFill/)
