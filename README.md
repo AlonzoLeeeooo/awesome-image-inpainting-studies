@@ -124,7 +124,7 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **CVPR**
     - ***TurboFill:*** Adapting Few-step Text-to-image Model for Fast Image Inpainting [[Paper]](https://arxiv.org/pdf/2504.00996) [[Project]](https://liangbinxie.github.io/projects/TurboFill/)
     - ***Towards Enhanced Image Inpainting:*** Mitigating Unwanted Object Insertion and Preserving Color Consistency [[Paper]](https://arxiv.org/pdf/2312.04831) [[Project]](https://yikai-wang.github.io/asuka/) [[Code]](https://github.com/Yikai-Wang/asuka-misato)
-    - ***RAD:*** Region-Aware Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/pdf/2412.09191)
+    - ***RAD:*** Region-Aware Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/pdf/2412.09191) [[Project]](http://vml.hanyang.ac.kr/rad-region-aware-diffusion-models-for-image-inpainting/) [[Code]](https://github.com/srk1995/RAD)
   - **ICLR**
     - ***HD-Painter:*** High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models [[Paper]](https://openreview.net/forum?id=6lB5qtdYAg) [[Code]](https://github.com/Picsart-AI-Research/HD-Painter)
 - <span id="text-year-2024">**Year 2024**</span>
