@@ -125,6 +125,10 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***TurboFill:*** Adapting Few-step Text-to-image Model for Fast Image Inpainting [[Paper]](https://arxiv.org/pdf/2504.00996) [[Project]](https://liangbinxie.github.io/projects/TurboFill/)
     - ***Towards Enhanced Image Inpainting:*** Mitigating Unwanted Object Insertion and Preserving Color Consistency [[Paper]](https://arxiv.org/pdf/2312.04831) [[Project]](https://yikai-wang.github.io/asuka/) [[Code]](https://github.com/Yikai-Wang/asuka-misato)
     - ***RAD:*** Region-Aware Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/pdf/2412.09191) [[Project]](http://vml.hanyang.ac.kr/rad-region-aware-diffusion-models-for-image-inpainting/) [[Code]](https://github.com/srk1995/RAD)
+  - **AAAI**
+    - ***Click2Mask:*** Local Editing with Dynamic Mask Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32720)
+    - ***Spin:*** Diffusion-based Semantic Image Painting Through Independent Information Injection [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32901)
+    - ***Yuan:*** Yielding Unblemished Aesthetics Through a Unified Network for Visual Imperfections Removal in Generated Images [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33053)
   - **ICLR**
     - ***HD-Painter:*** High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models [[Paper]](https://openreview.net/forum?id=6lB5qtdYAg) [[Code]](https://github.com/Picsart-AI-Research/HD-Painter)
 - <span id="text-year-2024">**Year 2024**</span>
@@ -176,6 +180,13 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
+- <span id="vanilla-year-2025">**Year 2025**</span> 
+  - **AAAI**
+    - ***AsyncDSB:*** Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32349)
+    - ***HomeDiffusion:*** Zero-Shot Object Customization with Multi-View Representation Learning for Indoor Scenes [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32496)
+    - ***RealisHuman:*** A Two-Stage Approach for Refining Malformed Human Parts in Generated Images [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32808)
+    - ***RHanDS:*** Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32815)
+    - ***Attentive Eraser:*** Unleashing Diffusion Model’s Object Removal Potential via Self-Attention Redirection Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34285)
 - <span id="vanilla-year-2024">**Year 2024**</span> 
   - **CVPR**
     - ***Structure Matters:*** Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/abs/2403.19898) [[Code]](https://github.com/htyjers/StrDiffusion)
