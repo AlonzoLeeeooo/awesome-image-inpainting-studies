@@ -187,6 +187,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***RealisHuman:*** A Two-Stage Approach for Refining Malformed Human Parts in Generated Images [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32808)
     - ***RHanDS:*** Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32815)
     - ***Attentive Eraser:*** Unleashing Diffusion Model’s Object Removal Potential via Self-Attention Redirection Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34285)
+  - **ICLR**
+    - ***TD-Paint:*** Faster Diffusion Inpainting Through Time-Aware Pixel Conditioning [[Paper]](https://openreview.net/forum?id=erWwBoR59l)
 - <span id="vanilla-year-2024">**Year 2024**</span> 
   - **CVPR**
     - ***Structure Matters:*** Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/abs/2403.19898) [[Code]](https://github.com/htyjers/StrDiffusion)
@@ -506,6 +508,10 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Fashion Image Inpainting
+- <span id="fashion-year-2025">**Year 2025**</span> 
+  - **ICLR**
+    - ***CatVTON:*** Concatenation Is All You Need for Virtual Try-On with Diffusion Models [[Paper]](https://openreview.net/forum?id=jt1h2dnmng)
+    - Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On [[Paper]](https://openreview.net/forum?id=XXzOzJRyOZ)
 - <span id="fashion-year-2024">**Year 2024**</span> 
     - ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28885)
 - <span id="fashion-year-2019">**Year 2019**</span> 
