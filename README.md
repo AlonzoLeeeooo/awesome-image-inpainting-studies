@@ -125,6 +125,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***TurboFill:*** Adapting Few-step Text-to-image Model for Fast Image Inpainting [[Paper]](https://arxiv.org/pdf/2504.00996) [[Project]](https://liangbinxie.github.io/projects/TurboFill/)
     - ***Towards Enhanced Image Inpainting:*** Mitigating Unwanted Object Insertion and Preserving Color Consistency [[Paper]](https://arxiv.org/pdf/2312.04831) [[Project]](https://yikai-wang.github.io/asuka/) [[Code]](https://github.com/Yikai-Wang/asuka-misato)
     - ***RAD:*** Region-Aware Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/pdf/2412.09191) [[Project]](http://vml.hanyang.ac.kr/rad-region-aware-diffusion-models-for-image-inpainting/) [[Code]](https://github.com/srk1995/RAD)
+    - ***MTADiffusion:*** Mask Text Alignment Diffusion Model for Object Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_MTADiffusion_Mask_Text_Alignment_Diffusion_Model_for_Object_Inpainting_CVPR_2025_paper.pdf)
+    - ***ATA:*** Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_ATA_Adaptive_Transformation_Agent_for_Text-Guided_Subject-Position_Variable_Background_Inpainting_CVPR_2025_paper.pdf)
   - **AAAI**
     - ***Click2Mask:*** Local Editing with Dynamic Mask Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32720)
     - ***Spin:*** Diffusion-based Semantic Image Painting Through Independent Information Injection [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32901)
