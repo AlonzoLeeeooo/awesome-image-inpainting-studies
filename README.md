@@ -191,6 +191,9 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Attentive Eraser:*** Unleashing Diffusion Model’s Object Removal Potential via Self-Attention Redirection Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34285)
   - **ICLR**
     - ***TD-Paint:*** Faster Diffusion Inpainting Through Time-Aware Pixel Conditioning [[Paper]](https://openreview.net/forum?id=erWwBoR59l)
+  - **ICML**
+    - Highly Compressed Tokenizer Can Generate Without Training [[Paper]](https://openreview.net/forum?id=rcjgzbYvhF) [[Code]](https://github.com/lukaslaobeyer/token-opt)
+    - Spherical-Nested Diffusion Model for Panoramic Image Outpainting [[Paper]](https://openreview.net/forum?id=JVDFkVf4QY) [[Code]](https://github.com/chronos123/SpND)
 - <span id="vanilla-year-2024">**Year 2024**</span> 
   - **CVPR**
     - ***Structure Matters:*** Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/abs/2403.19898) [[Code]](https://github.com/htyjers/StrDiffusion)
