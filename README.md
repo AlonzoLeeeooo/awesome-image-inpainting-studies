@@ -127,6 +127,12 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***RAD:*** Region-Aware Diffusion Models for Image Inpainting [[Paper]](https://arxiv.org/pdf/2412.09191) [[Project]](http://vml.hanyang.ac.kr/rad-region-aware-diffusion-models-for-image-inpainting/) [[Code]](https://github.com/srk1995/RAD)
     - ***MTADiffusion:*** Mask Text Alignment Diffusion Model for Object Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_MTADiffusion_Mask_Text_Alignment_Diffusion_Model_for_Object_Inpainting_CVPR_2025_paper.pdf)
     - ***ATA:*** Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_ATA_Adaptive_Transformation_Agent_for_Text-Guided_Subject-Position_Variable_Background_Inpainting_CVPR_2025_paper.pdf)
+  - **ICCV**
+    - ***Pinco:*** Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Pinco_Position-induced_Consistent_Adapter_for_Diffusion_Transformer_in_Foreground-conditioned_Inpainting_ICCV_2025_paper.pdf)
+    - ***Toward Better Out-painting:*** Improving the Image Composition with Initialization Policy Model [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Han_Toward_Better_Out-painting_Improving_the_Image_Composition_with_Initialization_Policy_ICCV_2025_paper.pdf)
+    - ***Trans-Adapter:*** A Plug-and-Play Framework for Transparent Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_Trans-Adapter_A_Plug-and-Play_Framework_for_Transparent_Image_Inpainting_ICCV_2025_paper.pdf)
+    - Ultra High-Resolution Image Inpainting with Patch-Based Content Consistency Adapter [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Ultra_High-Resolution_Image_Inpainting_with_Patch-Based_Content_Consistency_Adapter_ICCV_2025_paper.pdf)
+    - ***SAGI:*** Semantically Aligned and Uncertainty Guided AI Image Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Giakoumoglou_SAGI_Semantically_Aligned_and_Uncertainty_Guided_AI_Image_Inpainting_ICCV_2025_paper.pdf)
   - **AAAI**
     - ***Click2Mask:*** Local Editing with Dynamic Mask Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32720)
     - ***Spin:*** Diffusion-based Semantic Image Painting Through Independent Information Injection [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32901)
@@ -183,6 +189,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
 - <span id="vanilla-year-2025">**Year 2025**</span> 
+  - **ICCV**
+    - Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Contact-Aware_Amodal_Completion_for_Human-Object_Interaction_via_Multi-Regional_Inpainting_ICCV_2025_paper.pdf)
+    - ***CompleteMe:*** Reference-based Human Image Completion [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Tsai_CompleteMe_Reference-based_Human_Image_Completion_ICCV_2025_paper.pdf)
   - **AAAI**
     - ***AsyncDSB:*** Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32349)
     - ***HomeDiffusion:*** Zero-Shot Object Customization with Multi-View Representation Learning for Indoor Scenes [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32496)
