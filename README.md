@@ -139,6 +139,11 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Yuan:*** Yielding Unblemished Aesthetics Through a Unified Network for Visual Imperfections Removal in Generated Images [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33053)
   - **ICLR**
     - ***HD-Painter:*** High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models [[Paper]](https://openreview.net/forum?id=6lB5qtdYAg) [[Code]](https://github.com/Picsart-AI-Research/HD-Painter)
+  - **ACM MM**
+    - ***SynergyAmodal:*** Deocclude Anything with Text Control [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754874) [[Code]](https://github.com/imlixinyang/SynergyAmodal)
+    - ***Multi-Agent Amodal Completion:*** Direct Synthesis with Fine-Grained Semantic Guidance [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755225)
+    - Stable Diffusion-Based Approach for Human De-Occlusion [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755346)
+    - ***DEPO:*** Enhancing E-commerce Image Background Generation with Short Trajectory Direct Expected Preference Optimization [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755499)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***AnyDoor:*** Zero-shot Object-level Image Customization [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_AnyDoor_Zero-shot_Object-level_Image_Customization_CVPR_2024_paper.pdf) [[Code]](https://github.com/ali-vilab/AnyDoor) [[Project]](https://ali-vilab.github.io/AnyDoor-Page/)
@@ -200,6 +205,9 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Attentive Eraser:*** Unleashing Diffusion Model’s Object Removal Potential via Self-Attention Redirection Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34285)
   - **ICLR**
     - ***TD-Paint:*** Faster Diffusion Inpainting Through Time-Aware Pixel Conditioning [[Paper]](https://openreview.net/forum?id=erWwBoR59l)
+  - **ACM MM**
+    - ***CEARI:*** Co-Evolutionary Agents for Reassembling and Inpainting Puzzles with Gaps and Missing Pieces [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754695)
+    - ***RealText:*** Realistic Text Image Generation based on Glyph and Scene Aware Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755613)
   - **ICML**
     - Highly Compressed Tokenizer Can Generate Without Training [[Paper]](https://openreview.net/forum?id=rcjgzbYvhF) [[Code]](https://github.com/lukaslaobeyer/token-opt)
     - Spherical-Nested Diffusion Model for Panoramic Image Outpainting [[Paper]](https://openreview.net/forum?id=JVDFkVf4QY) [[Code]](https://github.com/chronos123/SpND)
