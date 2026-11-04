@@ -137,6 +137,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Click2Mask:*** Local Editing with Dynamic Mask Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32720)
     - ***Spin:*** Diffusion-based Semantic Image Painting Through Independent Information Injection [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32901)
     - ***Yuan:*** Yielding Unblemished Aesthetics Through a Unified Network for Visual Imperfections Removal in Generated Images [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33053)
+  - **NeurIPS**
+    - ***One Stone with Two Birds:*** A Null-Text-Null Frequency-Aware Diffusion Models for Text-Guided Image Inpainting [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/10046f4ea131db47db65ee667b23c079-Paper-Conference.pdf) [[Code]](https://github.com/htyjers/NTN-Diff)
   - **ICLR**
     - ***HD-Painter:*** High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models [[Paper]](https://openreview.net/forum?id=6lB5qtdYAg) [[Code]](https://github.com/Picsart-AI-Research/HD-Painter)
   - **ACM MM**
@@ -208,6 +210,10 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **ACM MM**
     - ***CEARI:*** Co-Evolutionary Agents for Reassembling and Inpainting Puzzles with Gaps and Missing Pieces [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754695)
     - ***RealText:*** Realistic Text Image Generation based on Glyph and Scene Aware Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755613)
+  - **NeurIPS**
+    - ***GeoComplete:*** Geometry-Aware Diffusion for Reference-Driven Image Completion [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/3276c45e631ad20e28379467e1846bb3-Paper-Conference.pdf)
+    - ***PixPerfect:*** Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/ba3354bcfeae4f166a8bfe75443ac8f7-Paper-Conference.pdf)
+    - ***GeoRemover:*** Removing Objects and Their Causal Visual Artifacts [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2025/file/be41269a9fe258f1ecba663b0b402322-Paper-Conference.pdf) [[Project]](https://buxiangzhiren.github.io/GeoRemover)
   - **ICML**
     - Highly Compressed Tokenizer Can Generate Without Training [[Paper]](https://openreview.net/forum?id=rcjgzbYvhF) [[Code]](https://github.com/lukaslaobeyer/token-opt)
     - Spherical-Nested Diffusion Model for Panoramic Image Outpainting [[Paper]](https://openreview.net/forum?id=JVDFkVf4QY) [[Code]](https://github.com/chronos123/SpND)
