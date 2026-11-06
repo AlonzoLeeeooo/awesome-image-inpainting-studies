@@ -120,6 +120,10 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="text-year-2026">**Year 2026**</span>
   - **AAAI**
     - ***FreeInpaint***: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting [[Paper]](https://arxiv.org/abs/2512.21104) [[Code]](https://github.com/CharlesGong12/FreeInpaint)
+    - ***Token Painter***: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models [[Paper]](https://arxiv.org/abs/2509.23919)
+    - ***Inpaint-Anywhere***: Zero-Shot Multi-Identity Inpainting with Efficient Diffusion Transformer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37706)
+    - ***Insert Anything***: Image Insertion via In-Context Editing in DiT [[Paper]](https://arxiv.org/abs/2504.15009)
+    - ***MagicPaint***: Operate Anything for Image Inpainting with Diffusion Model [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38151)
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***TurboFill:*** Adapting Few-step Text-to-image Model for Fast Image Inpainting [[Paper]](https://arxiv.org/pdf/2504.00996) [[Project]](https://liangbinxie.github.io/projects/TurboFill/)
@@ -195,6 +199,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
+- <span id="vanilla-year-2026">**Year 2026**</span> 
+  - **AAAI**
+    - ***SGMHand:*** Structure-Guided Modulation for Structure-Aware Hand Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37849)
 - <span id="vanilla-year-2025">**Year 2025**</span> 
   - **ICCV**
     - Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Contact-Aware_Amodal_Completion_for_Human-Object_Interaction_via_Multi-Regional_Inpainting_ICCV_2025_paper.pdf)
@@ -536,6 +543,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Fashion Image Inpainting
+- <span id="fashion-year-2026">**Year 2026**</span> 
+  - **AAAI**
+    - ***FashionMAC:*** Deformation-Free Fashion Image Generation with Fine-Grained Model Appearance Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38266)
 - <span id="fashion-year-2025">**Year 2025**</span> 
   - **ICLR**
     - ***CatVTON:*** Concatenation Is All You Need for Virtual Try-On with Diffusion Models [[Paper]](https://openreview.net/forum?id=jt1h2dnmng)
