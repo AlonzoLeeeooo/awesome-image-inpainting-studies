@@ -118,6 +118,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## 🔥 Text-Guided Image Inpainting
 - <span id="text-year-2026">**Year 2026**</span>
+  - **ICLR**
+    - ***Follow-Your-Preference:*** Towards Preference-Aligned Image Inpainting [[Paper]](https://openreview.net/forum?id=n6XbPGStit)
   - **AAAI**
     - ***FreeInpaint***: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting [[Paper]](https://arxiv.org/abs/2512.21104) [[Code]](https://github.com/CharlesGong12/FreeInpaint)
     - ***Token Painter***: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models [[Paper]](https://arxiv.org/abs/2509.23919)
@@ -202,6 +204,10 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="vanilla-year-2026">**Year 2026**</span> 
   - **AAAI**
     - ***SGMHand:*** Structure-Guided Modulation for Structure-Aware Hand Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37849)
+  - **ICLR**
+    - Efficient Zero-shot Inpainting with Decoupled Diffusion Guidance [[Paper]](https://openreview.net/forum?id=5F93RfQ12T)
+    - ***ReFocusEraser:*** Refocusing for Small Object Removal with Robust Context-Shadow Repair [[Paper]](https://openreview.net/forum?id=OkNxZGenYr)
+    - ***OmniText:*** A Training-Free Generalist for Controllable Text-Image Manipulation [[Paper]](https://openreview.net/forum?id=zF7GyVXVw6)
 - <span id="vanilla-year-2025">**Year 2025**</span> 
   - **ICCV**
     - Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Contact-Aware_Amodal_Completion_for_Human-Object_Interaction_via_Multi-Regional_Inpainting_ICCV_2025_paper.pdf)
