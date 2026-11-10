@@ -118,6 +118,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## 🔥 Text-Guided Image Inpainting
 - <span id="text-year-2026">**Year 2026**</span>
+  - **CVPR**
+    - ***InverFill:*** One-Step Inversion for Enhanced Few-Step Diffusion Inpainting [[Paper]](https://arxiv.org/abs/2603.23463)
   - **ICLR**
     - ***Follow-Your-Preference:*** Towards Preference-Aligned Image Inpainting [[Paper]](https://openreview.net/forum?id=n6XbPGStit)
   - **AAAI**
@@ -202,6 +204,13 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Vanilla Image Inpainting
 - <span id="vanilla-year-2026">**Year 2026**</span> 
+  - **CVPR**
+    - ***LaRP:*** Efficient Multi-View Inpainting with Latent Reprojection Priors [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_LaRP_Efficient_Multi-View_Inpainting_with_Latent_Reprojection_Priors_CVPR_2026_paper.pdf)
+    - Precise Object and Effect Removal with Adaptive Target-Aware Attention [[Paper]](https://arxiv.org/abs/2505.22636)
+    - ***HiFi-Inpaint:*** Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images [[Paper]](https://arxiv.org/abs/2603.02210)
+    - ***Your Latent Mask is Wrong:*** Pixel-Equivalent Latent Compositing for Diffusion Models [[Paper]](https://arxiv.org/abs/2512.05198)
+    - ***PHAC:*** Promptable Human Amodal Completion [[Paper]](https://arxiv.org/abs/2603.14741)
+    - ***You Only Erase Once:*** Erasing Anything without Bringing Unexpected Content [[Paper]](https://arxiv.org/abs/2603.27599)
   - **AAAI**
     - ***SGMHand:*** Structure-Guided Modulation for Structure-Aware Hand Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37849)
   - **ICLR**
