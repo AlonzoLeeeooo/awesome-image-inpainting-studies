@@ -122,6 +122,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***InverFill:*** One-Step Inversion for Enhanced Few-Step Diffusion Inpainting [[Paper]](https://arxiv.org/abs/2603.23463)
   - **ICLR**
     - ***Follow-Your-Preference:*** Towards Preference-Aligned Image Inpainting [[Paper]](https://openreview.net/forum?id=n6XbPGStit)
+  - **ICML**
+    - Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26q/zhou26q.pdf)
   - **AAAI**
     - ***FreeInpaint***: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting [[Paper]](https://arxiv.org/abs/2512.21104) [[Code]](https://github.com/CharlesGong12/FreeInpaint)
     - ***Token Painter***: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models [[Paper]](https://arxiv.org/abs/2509.23919)
