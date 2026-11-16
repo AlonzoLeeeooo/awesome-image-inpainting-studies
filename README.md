@@ -120,6 +120,11 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="text-year-2026">**Year 2026**</span>
   - **CVPR**
     - ***InverFill:*** One-Step Inversion for Enhanced Few-Step Diffusion Inpainting [[Paper]](https://arxiv.org/abs/2603.23463)
+  - **ECCV**
+    - ***SONIC:*** Spectral Optimization of Noise for Inpainting with Consistency [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14616.pdf)
+    - ***A2-Edit:*** Precise Reference-Guided Image Editing of Arbitrary Objects and Ambiguous Masks [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4160.pdf) [[Code]](https://github.com/huayu-zheng/A2Edit)
+    - High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8859.pdf) [[Code]](https://github.com/poohoh/BlueOut)
+    - ***Moebius:*** 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6177.pdf) [[Project]](https://hustvl.github.io/Moebius/)
   - **ICLR**
     - ***Follow-Your-Preference:*** Towards Preference-Aligned Image Inpainting [[Paper]](https://openreview.net/forum?id=n6XbPGStit)
   - **ICML**
@@ -213,6 +218,10 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Your Latent Mask is Wrong:*** Pixel-Equivalent Latent Compositing for Diffusion Models [[Paper]](https://arxiv.org/abs/2512.05198)
     - ***PHAC:*** Promptable Human Amodal Completion [[Paper]](https://arxiv.org/abs/2603.14741)
     - ***You Only Erase Once:*** Erasing Anything without Bringing Unexpected Content [[Paper]](https://arxiv.org/abs/2603.27599)
+  - **ECCV**
+    - ***UNet-Twice:*** A Simple Structured Reference-Based Inpainting Framework [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1460.pdf)
+    - ***OSOR:*** One-Step Diffusion Inpainting for Effect-Aware Object Removal [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10344.pdf) [[Code]](https://github.com/Zhouqm-Git/osor)
+    - ***EraseLoRA:*** MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal [[Paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9679.pdf) [[Project]](https://shjo-april.github.io/EraseLoRA/)
   - **AAAI**
     - ***SGMHand:*** Structure-Guided Modulation for Structure-Aware Hand Inpainting [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37849)
   - **ICLR**
