@@ -135,6 +135,10 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Inpaint-Anywhere***: Zero-Shot Multi-Identity Inpainting with Efficient Diffusion Transformer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37706)
     - ***Insert Anything***: Image Insertion via In-Context Editing in DiT [[Paper]](https://arxiv.org/abs/2504.15009)
     - ***MagicPaint***: Operate Anything for Image Inpainting with Diffusion Model [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38151)
+  - **ACM MM**
+    - ***Restoring with Reason:*** A Benchmark and Multimodal RAG Framework for Evidence-Grounded Mural Restoration [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
+    - ***Insert In Style:*** A Zero-Shot Generative Framework for Harmonious Cross-Domain Object Composition [[Paper]](https://arxiv.org/pdf/2511.15197)
+    - ***Making Your Object Camouflage:*** A Training-Free Diffusion Model for Controllable Camouflaged Image Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***TurboFill:*** Adapting Few-step Text-to-image Model for Fast Image Inpainting [[Paper]](https://arxiv.org/pdf/2504.00996) [[Project]](https://liangbinxie.github.io/projects/TurboFill/)
@@ -228,6 +232,11 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Efficient Zero-shot Inpainting with Decoupled Diffusion Guidance [[Paper]](https://openreview.net/forum?id=5F93RfQ12T)
     - ***ReFocusEraser:*** Refocusing for Small Object Removal with Robust Context-Shadow Repair [[Paper]](https://openreview.net/forum?id=OkNxZGenYr)
     - ***OmniText:*** A Training-Free Generalist for Controllable Text-Image Manipulation [[Paper]](https://openreview.net/forum?id=zF7GyVXVw6)
+  - **ACM MM**
+    - ***DeGIT:*** Depth-guided Geometry-consistent Inpainting Transformer [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
+    - ***DORS:*** Dynamic Attention Routing for Diffusion-based Object Removal in Dense Scenes [[Paper]](https://arxiv.org/pdf/2607.16656)
+    - Causal Deconfounding for Cross-Cave Style-Aware Dunhuang Mural Restoration [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
+    - Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
 - <span id="vanilla-year-2025">**Year 2025**</span> 
   - **ICCV**
     - Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Contact-Aware_Amodal_Completion_for_Human-Object_Interaction_via_Multi-Regional_Inpainting_ICCV_2025_paper.pdf)
@@ -461,6 +470,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Blind Image Inpainting
+- <span id="blind-year-2026">**Year 2026**</span> 
+  - **ACM MM**
+    - Blind Image Inpainting via Mask Supervision Pre-training [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-234)
 - <span id="blind-year-2023">**Year 2023**</span> 
   - **CVPRW**
     - Blind Image Inpainting via Omni-dimensional Gated Attention and Wavelet Queries [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Phutke_Blind_Image_Inpainting_via_Omni-Dimensional_Gated_Attention_and_Wavelet_Queries_CVPRW_2023_paper.pdf) [[Code]](https://github.com/shrutiphutke/Blind_Omni_Wav_Net)
@@ -572,6 +584,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="fashion-year-2026">**Year 2026**</span> 
   - **AAAI**
     - ***FashionMAC:*** Deformation-Free Fashion Image Generation with Fine-Grained Model Appearance Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38266)
+  - **ACM MM**
+    - ***VersaVogue:*** Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis [[Paper]](https://arxiv.org/pdf/2604.07210)
+    - ***DSR-Tryon:*** Dual-Scale Semantic Reasoning for Versatile and Coherent Virtual Try-On [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
 - <span id="fashion-year-2025">**Year 2025**</span> 
   - **ICLR**
     - ***CatVTON:*** Concatenation Is All You Need for Virtual Try-On with Diffusion Models [[Paper]](https://openreview.net/forum?id=jt1h2dnmng)
