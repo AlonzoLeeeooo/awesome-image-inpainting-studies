@@ -237,6 +237,10 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***DORS:*** Dynamic Attention Routing for Diffusion-based Object Removal in Dense Scenes [[Paper]](https://arxiv.org/pdf/2607.16656)
     - Causal Deconfounding for Cross-Cave Style-Aware Dunhuang Mural Restoration [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
     - Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
+  - **NeurIPS**
+    - Amortized Guidance for Image Inpainting with Pretrained Diffusion Models [[Paper]](https://openreview.net/forum?id=PVo9A82GnZ)
+    - ***PhysRemover:*** A Unified Framework for Physically Realistic Object Removal [[Paper]](https://openreview.net/forum?id=JWm5dYMjFu)
+    - Unlocking Any-Order Generation in Pretrained Autoregressive Image Models [[Paper]](https://openreview.net/forum?id=UVG9WWadYE)
 - <span id="vanilla-year-2025">**Year 2025**</span> 
   - **ICCV**
     - Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Contact-Aware_Amodal_Completion_for_Human-Object_Interaction_via_Multi-Regional_Inpainting_ICCV_2025_paper.pdf)
